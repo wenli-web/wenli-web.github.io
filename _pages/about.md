@@ -19,14 +19,18 @@ Wen has published work in top research journals, such as Nature, Nature Nanotech
 News
 ======
 June 6, 2025 | Wen received **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
+
 May 21, 2025 | Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** has been accepted in principle.
+
 May 12, 2025 | Wen is nominated for **Schmidt Science Fellows** 2026.
 
 More News can be found [here](https://wenli-web.github.io/year-archive/).
 
 Key Publication
 ======
-Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an accpetance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.
+<small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an accpetance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
+
+
 
 Site-wide configuration
 ------
