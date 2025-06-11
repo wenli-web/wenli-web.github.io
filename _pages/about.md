@@ -71,7 +71,7 @@ Colloid-based materials with tunable biophysical and chemical properties have de
 </p>
 
 <div style="text-align: center;">
-<img src="/images/pub3.jpeg" alt="pub3" width="700">
+<img src="/images/pub3.jpg" alt="pub3" width="700">
 </div>
 
 **CCS Chemistry 2022 Full paper**
