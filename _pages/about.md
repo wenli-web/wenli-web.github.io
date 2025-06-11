@@ -14,6 +14,7 @@ During his PhD, Wen focused on therapeutic gas delivery to treat [pressure ulcer
 Beyond human healthcare, Wen is looking to dive into Human Computer Interaction (HCI), where he is collaborating with [Prof. Pedro Lopes](https://lab.plopes.org/) to investigate chemical haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants.    
 
 Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship，where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
+
 ------
 
 News
@@ -34,7 +35,7 @@ Key Publication
 <table>
   <tr>
     <td style="width:50%; vertical-align:middle;">
-      <img src="images/pub1.jpg" alt="pub1" width="50">
+      <img src="pub1.jpg" alt="pub1" width="50">
     </td>
     <td style="width:50%; vertical-align:middle;">
       my publication
