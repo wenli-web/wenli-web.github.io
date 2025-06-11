@@ -34,7 +34,9 @@ Key Publication
 <small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an accpetance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
 </p>
 
-<img src="/images/pub1.jpg" alt="pub1" width="600">
+<div style="text-align: center;">
+<img src="/images/pub1.jpg" alt="pub1" width="700">
+</div>
 
 **Nature Chemical Engineering 2025 Full paper**
 
