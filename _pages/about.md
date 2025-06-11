@@ -55,9 +55,9 @@ Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damag
 <img src="/images/pub2.jpeg" alt="pub2" width="700">
 </div>
 
-**Nature Chemical Engineering 2025 Full paper**
+**Langmuir 2023 Full paper**
 
-**Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications**
+[**Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications**](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274)
 <small>
 **Wen Li**, Judah Huberman-Shlaes, B Tian
 </small>
@@ -67,6 +67,20 @@ Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damag
 Colloid-based materials with tunable biophysical and chemical properties have demonstrated significant potential in a wide range of biomedical applications. The ability to manipulate these properties across various size scales, encompassing nano-, micro-, and macrodomains, is essential to enhancing current biomedical technologies and facilitating the development of novel applications. Focusing on material design, we explore various synthetic colloid-based materials at the nano- and microscales and investigate their correlation with biological systems. Furthermore, we examine the utilization of the self-assembly of colloids to construct monolithic and macroscopic materials suitable for biointerfaces. By probing the potential of spatial imaging and localized drug delivery, enhanced functionality, and colloidal manipulation, we highlight emerging opportunities that could significantly advance the field of colloid-based materials in biomedical applications.
 </small>
 </p>
+
+**CCS Chemistry 2022 Full paper**
+
+[**A Strong and Rigid Coordination Adaptable Network that Can Be Reprocessed and Recycled at Mild Conditions**](https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672)
+<small>
+**Wen Li**, Hong-Qin Wang, Wen-Tong Gao, et al., Cheng-Hui Li
+</small>
+
+<p style="line-height: 1;">
+<small>
+The investigation of covalent adaptable networks (CANs) is expanding rapidly due to the growing demand for sustainable materials, as CANs show thermoset-like behavior and yet can be reprocessed, recycled, and healed. However, most of the CANs reported so far have a trade-off between mechanical strength and reversible properties and often show performance reduction after reprocessing and/or recycling. Herein, we designed and synthesized a coordination adaptable network (CoAN) by crosslinking low-molecular-weight monomers with abundant coordination bonds. Owning to its excellent variable-stiffness property, leading to high stiffness at ambient conditions and low viscosity at elevated temperature, the as-prepared CoAN showed high mechanical rigidity but could be reprocessed rapidly and recycled at mild conditions. After reprocessing or recycling, the mechanical properties of the samples showed no performance reduction, compared with a pristine sample. Density functional theory calculations showed that free thiol ligands played a key role in reducing the activation energy for bond exchange. When used as binders for composites, the embedded carbon fibers could be recycled rapidly and still maintain the original microstructure. The material also showed temperature-sensitive dielectric and conductive properties due to the release of metal ions upon heating. Overall, such performances are superior among the CANs reported previously.
+</small>
+</p>
+
 
 
 ------
