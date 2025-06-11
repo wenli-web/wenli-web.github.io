@@ -88,6 +88,24 @@ The investigation of covalent adaptable networks (CANs) is expanding rapidly due
 </small>
 </p>
 
+<div style="text-align: center;">
+<img src="/images/pub4.jpeg" alt="pub4" width="700">
+</div>
+
+**Nature Nanotechnology 2025 Full paper**
+
+[**Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates**](https://www.nature.com/articles/s41565-025-01878-4)
+
+<small>
+Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, **Wen Li**, et al., Bozhi Tian
+</small>
+
+<p style="line-height: 1;">
+<small>
+Nano-enabled catalysis at the interface of metals and semiconductors has found numerous applications, but its role in mediating cellular responses is still largely unexplored. Here we explore the territory by examining the once elusive mechanism through which a nanoporous silicon-based photocatalyst facilitates the two-electron oxidation of water to generate hydrogen peroxide under physiological conditions. We achieve precise modulation of intracellular stress granule formation by the controlled photoelectrochemical production of hydrogen peroxide in the extracellular environment, thereby enhancing cellular resilience to significant oxidative stress. This photoelectrochemical strategy has been evaluated for its efficacy in treating myocardial ischaemia–reperfusion injury in an ex vivo rodent model. Our data suggest that a pretreatment regimen involving photoelectrochemical generation of hydrogen peroxide at mild concentrations mitigates myocardial ischaemia–reperfusion-induced functional decline and infarction. These findings suggest a viable wireless therapeutic intervention for managing ischaemic disease and highlight the biomedical potential of nanostructured semiconductor-based catalytic devices.
+</small>
+</p>
+
 
 
 ------
