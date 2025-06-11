@@ -32,38 +32,13 @@ Key Publication
 ======
 <small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an accpetance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
 
-<table>
-  <tr>
-    <td style="width:60%; vertical-align:middle;">
-      <img src="pub1.jpg" alt="pub1" width="60">
-    </td>
-    <td style="width:40%; vertical-align:middle;">
-      Nature Chemical Engineering 2025 Full paper
-      
-      Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy
-
-      W Li, J Zhang, et al., B Tian
-   
-    </td>
-  </tr>
-</table>
-
-<div style="display:flex; align-items:center;">
-  <img src="pub1.jpg" alt="pub1" width="500" style="margin-right: 20px;">
-  <div>Nature Chemical Engineering 2025 Full paper
-      
-      Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy
-
-      W Li, J Zhang, et al., B Tian</div>
-</div>
-
 ![pub1](pub1.jpg)
 
 Nature Chemical Engineering 2025 Full paper
 
 Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy
 
-W Li, J Zhang, et al., B Tian
+**Wen Li**, Jing Zhang, et al., B Tian
 
 <small>
 Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damage associated with ischemia-reperfusion (I/R) injury and inflammation. Existing H2 delivery methods, such as gas inhalation and hydrogen-enriched water consumption, lack precision, targeting the entire body and experiencing substantial leakage during administration. Here, we engineer a wireless and portable hydrogel electrochemical cell, that enables on-demand H2 production via hydrogen evolution reaction (HER). The system enables H2 controlled generation, localized storage, and sustained diffusion to the tissue-device interface, with controllability and sustainability unattainable with current methods. We conduct the first thorough study of H2 evolution and dynamics in a pure hydrogel electrolyte system, evaluating the influence of hydrogel polymer composition on HER kinetics, gas morphologies, and gas storage. We validate its protective effects against ROS 1) in vitro with cardiomyocytes and keratinocytes, 2) ex vivo in an I/R heart model, and 3) in vivo in a skin I/R pressure ulcer model. These findings demonstrate the potential of hydrogel electrochemical cell design for efficient and sustainable H2 delivery in I/R therapy, which could be broadly applied in other gas-based therapies and drug delivery research.</small>
