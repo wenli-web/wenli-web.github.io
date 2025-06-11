@@ -1,15 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research envisions a future where drug/chemical stimulation can be delivered through various of ways to (1) treat disease and (2) modulate human perception, empowering tissue regeneration or altering human sensory experiences, such as touch, smell, taste, temperature and pressure perception. 
 
-A data-driven personal website
+During his PhD, Wen focused on therapeutic gas delivery to treat [pressure ulcer](https://en.wikipedia.org/wiki/Pressure_ulcer), also called bedsore. Therapeutic gasous drugs such as hydrogen and oxygen are difficult to generate, store and sustainably deliver to localized wounded tissue. Wen overcame this challenge by proposing, for the first time, using hydrogels as the electrochemical cells to trap therapeutic hydrogen gas generated via hydrogen evolution reaction (HER), achieving a prolonged and sustained gasous drug delivery. And now he is developing smart electronic mattress to further advance the treatment of bedsore. 
+
+Beyond human healthcare, Wen is looking to dive into Human Computer Interaction (HCI), where he is collaborating with [Prof. Pedro Lopes](https://lab.plopes.org/) to investigate chemical haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants.    
+
+Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship，where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
+
+
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
