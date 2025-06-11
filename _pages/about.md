@@ -14,24 +14,38 @@ During his PhD, Wen focused on therapeutic gas delivery to treat [pressure ulcer
 Beyond human healthcare, Wen is looking to dive into Human Computer Interaction (HCI), where he is collaborating with [Prof. Pedro Lopes](https://lab.plopes.org/) to investigate chemical haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants.    
 
 Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship，where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
-
+------
 
 News
 ======
-June 6, 2025  Wen received **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
+June 6, 2025  Wen receives **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
 
 May 21, 2025  Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** has been accepted in principle.
 
 May 12, 2025  Wen is nominated for **Schmidt Science Fellows** 2026.
 
 More News can be found [here](https://wenli-web.github.io/year-archive/).
+------
 
 Key Publication
 ======
 <small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an accpetance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
 
+<table>
+  <tr>
+    <td style="width:50%; vertical-align:middle;">
+      <img src="images/pub1.jpg" alt="pub1" width="50">
+    </td>
+    <td style="width:50%; vertical-align:middle;">
+      my publication
+    </td>
+  </tr>
+</table>
 
 
+
+
+------
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
