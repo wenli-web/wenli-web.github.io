@@ -18,11 +18,11 @@ Wen has published work in top research journals, such as Nature, Nature Nanotech
 
 News
 ======
-June 6, 2025 | Wen received **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
+June 6, 2025  Wen received **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
 
-May 21, 2025 | Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** has been accepted in principle.
+May 21, 2025  Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** has been accepted in principle.
 
-May 12, 2025 | Wen is nominated for **Schmidt Science Fellows** 2026.
+May 12, 2025  Wen is nominated for **Schmidt Science Fellows** 2026.
 
 More News can be found [here](https://wenli-web.github.io/year-archive/).
 
