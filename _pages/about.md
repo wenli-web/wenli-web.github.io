@@ -35,7 +35,7 @@ Key Publication
 <table>
   <tr>
     <td style="width:50%; vertical-align:middle;">
-      <img src="pub1.jpg" alt="pub1" width="300">
+      <img src="pub1.jpg" alt="pub1" width="100">
     </td>
     <td style="width:50%; vertical-align:middle;">
       Nature Chemical Engineering 2025 Full paper
