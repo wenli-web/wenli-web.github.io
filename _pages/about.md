@@ -42,6 +42,7 @@ Key Publication
 **Nature Chemical Engineering 2025 Full paper**
 
 **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**
+
 <small>
 **Wen Li**, Jing Zhang, et al., B Tian
 </small>
@@ -58,6 +59,7 @@ Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damag
 **Langmuir 2023 Full paper**
 
 [**Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications**](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274)
+
 <small>
 **Wen Li**, Judah Huberman-Shlaes, B Tian
 </small>
@@ -68,9 +70,14 @@ Colloid-based materials with tunable biophysical and chemical properties have de
 </small>
 </p>
 
+<div style="text-align: center;">
+<img src="/images/pub3.jpeg" alt="pub3" width="700">
+</div>
+
 **CCS Chemistry 2022 Full paper**
 
 [**A Strong and Rigid Coordination Adaptable Network that Can Be Reprocessed and Recycled at Mild Conditions**](https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672)
+
 <small>
 **Wen Li**, Hong-Qin Wang, Wen-Tong Gao, et al., Cheng-Hui Li
 </small>
