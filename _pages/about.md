@@ -26,6 +26,7 @@ May 21, 2025  Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolutio
 May 12, 2025  Wen is nominated for **Schmidt Science Fellows** 2026.
 
 More News can be found [here](https://wenli-web.github.io/year-archive/).
+
 ------
 
 Key Publication
@@ -41,11 +42,30 @@ Key Publication
 **Nature Chemical Engineering 2025 Full paper**
 
 **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**
-
+<small>
 **Wen Li**, Jing Zhang, et al., B Tian
+</small>
+
 <p style="line-height: 1;">
 <small>
 Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damage associated with ischemia-reperfusion (I/R) injury and inflammation. Existing H2 delivery methods, such as gas inhalation and hydrogen-enriched water consumption, lack precision, targeting the entire body and experiencing substantial leakage during administration. Here, we engineer a wireless and portable hydrogel electrochemical cell, that enables on-demand H2 production via hydrogen evolution reaction (HER). The system enables H2 controlled generation, localized storage, and sustained diffusion to the tissue-device interface, with controllability and sustainability unattainable with current methods. We conduct the first thorough study of H2 evolution and dynamics in a pure hydrogel electrolyte system, evaluating the influence of hydrogel polymer composition on HER kinetics, gas morphologies, and gas storage. We validate its protective effects against ROS 1) in vitro with cardiomyocytes and keratinocytes, 2) ex vivo in an I/R heart model, and 3) in vivo in a skin I/R pressure ulcer model. These findings demonstrate the potential of hydrogel electrochemical cell design for efficient and sustainable H2 delivery in I/R therapy, which could be broadly applied in other gas-based therapies and drug delivery research.</small>
+</p>
+
+<div style="text-align: center;">
+<img src="/images/pub2.jpeg" alt="pub2" width="700">
+</div>
+
+**Nature Chemical Engineering 2025 Full paper**
+
+**Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications**
+<small>
+**Wen Li**, Judah Huberman-Shlaes, B Tian
+</small>
+
+<p style="line-height: 1;">
+<small>
+Colloid-based materials with tunable biophysical and chemical properties have demonstrated significant potential in a wide range of biomedical applications. The ability to manipulate these properties across various size scales, encompassing nano-, micro-, and macrodomains, is essential to enhancing current biomedical technologies and facilitating the development of novel applications. Focusing on material design, we explore various synthetic colloid-based materials at the nano- and microscales and investigate their correlation with biological systems. Furthermore, we examine the utilization of the self-assembly of colloids to construct monolithic and macroscopic materials suitable for biointerfaces. By probing the potential of spatial imaging and localized drug delivery, enhanced functionality, and colloidal manipulation, we highlight emerging opportunities that could significantly advance the field of colloid-based materials in biomedical applications.
+</small>
 </p>
 
 
