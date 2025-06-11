@@ -36,9 +36,9 @@ Key Publication
 
 <img src="pub1.jpg" alt="pub1" width="500">
 
-Nature Chemical Engineering 2025 Full paper
+**Nature Chemical Engineering 2025 Full paper**
 
-Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy
+**Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**
 
 **Wen Li**, Jing Zhang, et al., B Tian
 <p style="line-height: 0.8;">
