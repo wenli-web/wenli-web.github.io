@@ -36,7 +36,7 @@ Key Publication
 </p>
 
 <div style="text-align: center;">
-<img src="/images/pub1.jpg" alt="pub1" width="700">
+<img src="/images/pub1.jpg" alt="pub1" width="500">
 </div>
 
 **Nature Chemical Engineering 2025 Full paper**
@@ -53,7 +53,7 @@ Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damag
 </p>
 
 <div style="text-align: center;">
-<img src="/images/pub2.jpeg" alt="pub2" width="700">
+<img src="/images/pub2.jpeg" alt="pub2" width="500">
 </div>
 
 **Langmuir 2023 Full paper**
@@ -71,7 +71,7 @@ Colloid-based materials with tunable biophysical and chemical properties have de
 </p>
 
 <div style="text-align: center;">
-<img src="/images/pub3.jpg" alt="pub3" width="700">
+<img src="/images/pub3.jpg" alt="pub3" width="500">
 </div>
 
 **CCS Chemistry 2022 Full paper**
@@ -89,7 +89,7 @@ The investigation of covalent adaptable networks (CANs) is expanding rapidly due
 </p>
 
 <div style="text-align: center;">
-<img src="/images/pub4.jpeg" alt="pub4" width="700">
+<img src="/images/pub4.jpg" alt="pub4" width="500">
 </div>
 
 **Nature Nanotechnology 2025 Full paper**
