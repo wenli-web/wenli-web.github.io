@@ -7,23 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research envisions a future where drug/chemical stimulation can be delivered through various of ways to (1) treat disease and (2) modulate human perception, empowering tissue regeneration or altering human sensory experiences, such as touch, smell, taste, temperature and pressure perception. 
+Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research envisions a future where chemical/physical stimulation can be delivered through various of ways to (1) treat disease and improve human healthcare, (2) modulate human perception, empowering tissue regeneration or altering human sensory experiences, such as touch, smell, taste, temperature and pressure perception. He envisions a future where human can virtually shake hands in virtual reality (VR) and through an external device, people can feel the temperature, the textile, the pressure, and the mechanics of the other human beings.
 
 During his PhD, Wen focused on therapeutic gas delivery to treat [pressure ulcer](https://en.wikipedia.org/wiki/Pressure_ulcer), also called bedsore. Therapeutic gasous drugs such as hydrogen and oxygen are difficult to generate, store and sustainably deliver to localized wounded tissue. Wen overcame this challenge by proposing, for the first time, using hydrogels as the electrochemical cells to trap therapeutic hydrogen gas generated via hydrogen evolution reaction (HER), achieving a prolonged and sustained gasous drug delivery. And now he is developing smart electronic mattress to further advance the treatment of bedsore. 
 
-Beyond human healthcare, Wen is looking to dive into Human Computer Interaction (HCI), where he is collaborating with [Prof. Pedro Lopes](https://lab.plopes.org/) to investigate chemical haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants.    
+Beyond human healthcare, Wen is looking to dive into Human Computer Interaction (HCI), where he is working with [Prof. Pedro Lopes](https://lab.plopes.org/) from Computer Science department at UChicago to investigate chemical haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants.    
 
-Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship，where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
+Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
 
 ------
 
 News
 ======
-June 6, 2025  Wen receives **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
+June 6, 2025, Wen receives **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
 
-May 21, 2025  Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** has been accepted in principle.
 
-May 12, 2025  Wen is nominated for **Schmidt Science Fellows** 2026.
+May 21, 2025, Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** has been accepted in principle.
+
+
+May 12, 2025, Wen is nominated for **Schmidt Science Fellows** 2026.
 
 More News can be found [here](https://wenli-web.github.io/year-archive/).
 
@@ -32,7 +34,7 @@ More News can be found [here](https://wenli-web.github.io/year-archive/).
 Key Publication
 ======
 <p style="line-height: 1;">
-<small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an accpetance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
+<small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an acceptance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
 </p>
 
 <div style="text-align: center;">
@@ -40,17 +42,20 @@ Key Publication
 </div>
 
 **Nature Chemical Engineering 2025 Full paper**
-<p style="line-height: 2;">
-**Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**
+<p>
+  <span style="line-height: 2;">**Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**</span>
+</p>
 
-<small>
-**Wen Li**, Jing Zhang, et al., B Tian
-</small>
+<p>
+  <small>
+    <span style="line-height: 2;">**Wen Li**, Jing Zhang, et al., B Tian</span>
+  </small>
 </p>
 
 <p style="line-height: 1;">
 <small>
-Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damage associated with ischemia-reperfusion (I/R) injury and inflammation. Existing H2 delivery methods, such as gas inhalation and hydrogen-enriched water consumption, lack precision, targeting the entire body and experiencing substantial leakage during administration. Here, we engineer a wireless and portable hydrogel electrochemical cell, that enables on-demand H2 production via hydrogen evolution reaction (HER). The system enables H2 controlled generation, localized storage, and sustained diffusion to the tissue-device interface, with controllability and sustainability unattainable with current methods. We conduct the first thorough study of H2 evolution and dynamics in a pure hydrogel electrolyte system, evaluating the influence of hydrogel polymer composition on HER kinetics, gas morphologies, and gas storage. We validate its protective effects against ROS 1) in vitro with cardiomyocytes and keratinocytes, 2) ex vivo in an I/R heart model, and 3) in vivo in a skin I/R pressure ulcer model. These findings demonstrate the potential of hydrogel electrochemical cell design for efficient and sustainable H2 delivery in I/R therapy, which could be broadly applied in other gas-based therapies and drug delivery research.</small>
+Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damage associated with ischemia-reperfusion (I/R) injury and inflammation. Existing H2 delivery methods, such as gas inhalation and hydrogen-enriched water consumption, lack precision, targeting the entire body and experiencing substantial leakage during administration. Here, we engineer a wireless and portable hydrogel electrochemical cell, that enables on-demand H2 production via hydrogen evolution reaction (HER). The system enables H2 controlled generation, localized storage, and sustained diffusion to the tissue-device interface, with controllability and sustainability unattainable with current methods. We conduct the first thorough study of H2 evolution and dynamics in a pure hydrogel electrolyte system, evaluating the influence of hydrogel polymer composition on HER kinetics, gas morphologies, and gas storage. We validate its protective effects against ROS 1) in vitro with cardiomyocytes and keratinocytes, 2) ex vivo in an I/R heart model, and 3) in vivo in a skin I/R pressure ulcer model. These findings demonstrate the potential of hydrogel electrochemical cell design for efficient and sustainable H2 delivery in I/R therapy, which could be broadly applied in other gas-based therapies and drug delivery research.
+</small>
 </p>
 
 <div style="text-align: center;">
