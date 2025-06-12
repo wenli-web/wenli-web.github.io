@@ -15,6 +15,8 @@ Beyond human healthcare, Wen is looking to dive into Human Computer Interaction 
 
 Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
 
+Outside the lab, Wen enjoys music. He plays piano and serves as Base singer at [UChrous](https://music.uchicago.edu/performance-opportunities/vocal/university-chorus) at UChicago. Check [our performance](https://vimeo.com/1085021221?share=copy#t=0) here. Besides, he enjoys climbing, cycling, and playing Go.
+
 ------
 
 News
@@ -117,10 +119,13 @@ Electrode-based electrical stimulation underpins several clinical bioelectronic 
 </small>
 </p>
 
-More paper can be found in [google scholar](https://scholar.google.com/citations?user=9D4DmSUAAAAJ&hl=en).  
+More papers can be found in [google scholar](https://scholar.google.com/citations?user=9D4DmSUAAAAJ&hl=en).  
 
 
-Academic Service
+Academic and Community Service
 ------
+**peer review** Since May 2024, Wen serves as peer reviewer for ACS Nano and Device for American Chemical Society and Cell Press.
 
-**peer review** Since May 2024, Wen serves as peer reviewer for ACS Nano and Device for American Chemical Society and Cell Press. 
+**entrepreneurship** In 2024, Wen co-found [H-Pad](https://www.hpad.us/) and serves as CTO of the company. he developed a medical device to treat bedsore and demonstrate its effectiveness in preclinical test. His team is one of 15 teams out of ~70 that entered CNVC phase II and won $5000 seed funding.
+
+**Chemistry Student Union** Wen served as team leader in academic service department in Chemistry student Union at Nanjing University. He held 5+ academic discussion seminars and held 2+ final exam review seminars to help students review for university chemistry courses. He won the Exceptional Team Leader in Academic Service Department and the Exceptional Freshman Mentor and Friend awards.
