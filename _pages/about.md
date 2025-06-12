@@ -101,6 +101,10 @@ Nano-enabled catalysis at the interface of metals and semiconductors has found n
 </small>
 </p>
 
+<div style="text-align: center;">
+<img src="/images/pub5.jpg" alt="pub5" width="500">
+</div>
+
 **Nature 2024 Full paper**
 
 [**Monolithic silicon for high spatiotemporal translational photostimulation**](https://www.nature.com/articles/s41586-024-07016-9)
