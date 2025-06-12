@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-More future post is coming. Look forward to personal growth and academic achievements. 
+More future posts are coming. Look forward to personal growth and academic achievements. 
