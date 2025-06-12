@@ -124,8 +124,10 @@ More papers can be found in [google scholar](https://scholar.google.com/citation
 
 Academic and Community Service
 ------
-**peer review** Since May 2024, Wen serves as peer reviewer for ACS Nano and Device for American Chemical Society and Cell Press.
+**Peer Review** Since May 2024, Wen serves as peer reviewer for ACS Nano and Device for American Chemical Society and Cell Press.
 
-**entrepreneurship** In 2024, Wen co-found [H-Pad](https://www.hpad.us/) and serves as CTO of the company. he developed a medical device to treat bedsore and demonstrate its effectiveness in preclinical test. His team is one of 15 teams out of ~70 that entered CNVC phase II and won $5000 seed funding.
+**Entrepreneurship** In 2024, Wen co-found [H-Pad](https://www.hpad.us/) and serves as CTO of the company. he developed a medical device to treat bedsore and demonstrate its effectiveness in preclinical test. His team is one of 15 teams out of ~70 that entered CNVC phase II and won $5000 seed funding.
 
 **Chemistry Student Union** Wen served as team leader in academic service department in Chemistry student Union at Nanjing University. He held 5+ academic discussion seminars and held 2+ final exam review seminars to help students review for university chemistry courses. He won the Exceptional Team Leader in Academic Service Department and the Exceptional Freshman Mentor and Friend awards.
+
+**Teaching Assistant** From 2021 to 2022, Wen TAed three classes: Organic Chemistry, Physical Chemistry experiment and Chemical Kinetics. Developed and delivered recitation classes once a week, supervised over 30 students in teaching laboratories and writing laboratory reports, and held weekly office hours.
