@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research envisions a future where chemical/physical stimulation can be delivered through various of ways to (1) treat disease and improve human healthcare, (2) modulate human perception, empowering tissue regeneration or altering human sensory experiences, such as touch, smell, taste, temperature and pressure perception. He envisions a future where human can virtually shake hands in virtual reality (VR) and through an external device, people can feel the temperature, the texture, the pressure, and the mechanics of the other human beings.
+Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research is at the nexus of bioelectronics, materials science, and human-computer interaction (HCI), envisioning a future where chemical and physical stimulation can be seamlessly integrated into our lives to enhance human capabilities and well-being. He envisions a world where a new generation of interfaces can (1) treat diseases and improve healthcare, (2) actively regulate human perception — altering sensory experiences like touch, smell, taste and temperature. A central part of this vision is to enable truly immersive virtual interactions, where a virtual handshake in a digital space could be felt with real warmth, texture, and force through an external device.
 
 During his PhD, Wen focused on therapeutic gas delivery to treat [pressure ulcer](https://en.wikipedia.org/wiki/Pressure_ulcer), also called bedsore. Therapeutic gasous drugs such as hydrogen and oxygen are difficult to generate, store and sustainably deliver to localized wounded tissue. Wen overcame this challenge by proposing, for the first time, using hydrogels as the electrochemical cells to trap therapeutic hydrogen gas generated via hydrogen evolution reaction (HER), achieving a prolonged and sustained gasous drug delivery. And now he is developing smart electronic mattress to further advance the treatment of bedsore. 
 
-Beyond human healthcare, Wen is looking to dive into Human Computer Interaction (HCI), where he is working with [Prof. Pedro Lopes](https://lab.plopes.org/) from Computer Science department at UChicago to investigate chemical haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants.    
+Beyond healthcare, Wen is actively diving into Human Computer Interaction, where he is working with [Prof. Pedro Lopes](https://lab.plopes.org/) from Computer Science department at UChicago to investigate haptics. By borrowing parts of human body as input/output hardware, Wen is looking to develop new wearable devices to change human perception through controlled delivery of chemical stimulants or electrical stimulation.    
 
-Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** from Futurewei Technologies, Inc.  
+Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** (3 out of 30-40 people) from Futurewei Technologies, Inc.  
 
 Outside the lab, Wen enjoys music. He plays piano and serves as Base singer at [UChrous](https://music.uchicago.edu/performance-opportunities/vocal/university-chorus) at UChicago. Check [our performance](https://vimeo.com/1085021221?share=copy#t=0) here. Besides, he enjoys climbing, cycling, and playing Go.
 
@@ -21,6 +21,8 @@ Outside the lab, Wen enjoys music. He plays piano and serves as Base singer at [
 
 News
 ======
+August 15, 2025, Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** is now [online](https://www.nature.com/articles/s44286-025-00259-x). As of September 22, 2025, Nature Chemical Engineering published 25 papers in the year of 2025. And Wen's paper is one of them. 
+
 June 6, 2025, Wen receives **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
 
 
@@ -36,16 +38,16 @@ More News can be found [here](https://wenli-web.github.io/year-archive/).
 Key Publication
 ======
 <p style="line-height: 1;">
-<small>Nature and Nature sister journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an acceptance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
+<small>Nature and Nature research journals are highly prestigious journals for people who study engineering, fundamental science and applied science. They are fully peer-reviewed and usually have an acceptance rate below 10%. As Wen is diving into HCI and computer science, he will publish on ACM CHI and UIST conference in the future, which are also fully peer-reviewed and have an acceptance rate of 20-25%.</small>
 </p>
 
 <div style="text-align: center;">
 <img src="/images/pub1.jpg" alt="pub1" width="500">
 </div>
 
-**Nature Chemical Engineering 2025 Full paper**
+**Nature Chemical Engineering 2025**
 
-**Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**
+[**Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy**](https://www.nature.com/articles/s44286-025-00259-x)
 
 <small>**Wen Li**, Jing Zhang, et al., B Tian</small>
 
@@ -59,7 +61,7 @@ Molecular hydrogen (H2) protects organs from reactive oxygen species (ROS) damag
 <img src="/images/pub2.jpeg" alt="pub2" width="500">
 </div>
 
-**Langmuir 2023 Full paper**
+**Langmuir 2023**
 
 [**Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications**](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274)
 
@@ -75,7 +77,7 @@ Colloid-based materials with tunable biophysical and chemical properties have de
 <img src="/images/pub3.jpg" alt="pub3" width="500">
 </div>
 
-**CCS Chemistry 2022 Full paper**
+**CCS Chemistry 2022**
 
 [**A Strong and Rigid Coordination Adaptable Network that Can Be Reprocessed and Recycled at Mild Conditions**](https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672)
 
@@ -91,7 +93,7 @@ The investigation of covalent adaptable networks (CANs) is expanding rapidly due
 <img src="/images/pub4.jpg" alt="pub4" width="500">
 </div>
 
-**Nature Nanotechnology 2025 Full paper**
+**Nature Nanotechnology 2025**
 
 [**Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates**](https://www.nature.com/articles/s41565-025-01878-4)
 
@@ -107,7 +109,7 @@ Nano-enabled catalysis at the interface of metals and semiconductors has found n
 <img src="/images/pub5.jpg" alt="pub5" width="500">
 </div>
 
-**Nature 2024 Full paper**
+**Nature 2024**
 
 [**Monolithic silicon for high spatiotemporal translational photostimulation**](https://www.nature.com/articles/s41586-024-07016-9)
 
@@ -128,6 +130,6 @@ Academic and Community Service
 
 **Entrepreneurship** In 2024, Wen co-found [H-Pad](https://www.hpad.us/) and serves as CTO of the company. he developed a medical device to treat bedsore and demonstrate its effectiveness in preclinical test. His team is one of 15 teams out of ~70 that entered CNVC phase II and won $5000 seed funding.
 
-**Chemistry Student Union** Wen served as team leader in academic service department in Chemistry student Union at Nanjing University. He held 5+ academic discussion seminars and held 2+ final exam review seminars to help students review for university chemistry courses. He won the Exceptional Team Leader in Academic Service Department and the Exceptional Freshman Mentor and Friend awards.
+**Chemistry Student Union** Wen served as team leader in academic service department in Chemistry Student Union at Nanjing University. He held 5+ academic discussion seminars and held 2+ final exam review seminars to help students review for university chemistry courses. He won the Exceptional Team Leader in Academic Service Department and the Exceptional Freshman Mentor and Friend awards.
 
 **Teaching Assistant** From 2021 to 2022, Wen TAed three classes: Organic Chemistry, Physical Chemistry experiment and Chemical Kinetics. Developed and delivered recitation classes once a week, supervised over 30 students in teaching laboratories and writing laboratory reports, and held weekly office hours.
