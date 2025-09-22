@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research is at the nexus of bioelectronics, materials science, and human-computer interaction (HCI), envisioning a future where chemical and physical stimulation can be seamlessly integrated into our lives to enhance human capabilities and well-being. He envisions a world where a new generation of interfaces can (1) treat diseases and improve healthcare, (2) actively regulate human perception — altering sensory experiences like touch, smell, taste and temperature. A central part of this vision is to enable truly immersive virtual interactions, where a virtual handshake in a digital space could be felt with real warmth, texture, and force through an external device.
+Wen Li is a PhD candidate in the Department of Chemistry at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/). His research is at the nexus of bioelectronics, materials science, and human-computer interaction (HCI), envisioning a future where chemical and physical stimulation can be seamlessly integrated into our lives to enhance human capabilities and well-being. He envisions a world where a new generation of interfaces can (1) treat diseases and improve healthcare, (2) actively regulate human perception — altering sensory experiences like touch, smell, taste and thermal. A central part of this vision is to enable truly immersive virtual interactions, where a virtual handshake in a digital space could be felt with real warmth, texture, and force through an external device.
 
 During his PhD, Wen focused on therapeutic gas delivery to treat [pressure ulcer](https://en.wikipedia.org/wiki/Pressure_ulcer), also called bedsore. Therapeutic gasous drugs such as hydrogen and oxygen are difficult to generate, store and sustainably deliver to localized wounded tissue. Wen overcame this challenge by proposing, for the first time, using hydrogels as the electrochemical cells to trap therapeutic hydrogen gas generated via hydrogen evolution reaction (HER), achieving a prolonged and sustained gasous drug delivery. And now he is developing smart electronic mattress to further advance the treatment of bedsore. 
 
@@ -21,7 +21,7 @@ Outside the lab, Wen enjoys music. He plays piano and serves as Base singer at [
 
 News
 ======
-August 15, 2025, Wen's **Nature Chemical Engineering** paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion therapy** is now [online](https://www.nature.com/articles/s44286-025-00259-x). As of September 22, 2025, Nature Chemical Engineering published 25 papers in the year of 2025. And Wen's paper is one of them. 
+August 15, 2025, Wen's **Nature Chemical Engineering** paper is now [online](https://www.nature.com/articles/s44286-025-00259-x). As of September 22, 2025, Nature Chemical Engineering published 25 papers in the year of 2025. And Wen's paper is one of them. 
 
 June 6, 2025, Wen receives **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department.
 
