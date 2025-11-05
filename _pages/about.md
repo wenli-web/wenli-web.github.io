@@ -15,13 +15,13 @@ Beyond healthcare, Wen is actively diving into Human Computer Interaction, where
 
 Wen has published work in top research journals, such as Nature, Nature Nanotechnology, Nature Sustainability, Nature Chemical Engineering, Matter, etc. He published his leading author paper on Nature Chemical Engineering, CCS Chemistry and Langmuir. Beyond research, Wen is interested with entrepreneurship where he co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, and won $5,000 seed funding from The University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/)(CNVC). Wen won 2025 **Benjamin Ball Freud Merit Scholarship** from UChicago Chemistry department and 2024 **Outstanding Intern Award** (3 out of 30-40 people) from Futurewei Technologies, Inc.  
 
-Outside the lab, Wen enjoys music. He plays piano and serves as Base singer at [UChrous](https://music.uchicago.edu/performance-opportunities/vocal/university-chorus) at UChicago. Check [our performance](https://vimeo.com/1085021221?share=copy#t=0) here. Besides, he enjoys climbing, cycling, and playing Go.
+Outside the lab, Wen enjoys music. He plays piano and serves as bass singer at [UChrous](https://music.uchicago.edu/performance-opportunities/vocal/university-chorus) at UChicago. Check [our performance](https://vimeo.com/1085021221?share=copy#t=0) here. Besides, he enjoys climbing, cycling, and playing Go.
 
 ------
 
 News
 ======
-October 24, 2025, Wen has been selected as a **Graduate Student Award Finalist** for the 2025 MRS Fall Meeting. He will compete for Gold award on December 2 in Boston, MA!
+October 24, 2025, Wen has been selected as a **Graduate Student Award Finalist** for the 2025 MRS Fall Meeting. He is the only person at UChicago this year in 2025 fall MRS Graduate Student Award Finalist. He will compete for Gold award on December 2 in Boston, MA!
 
 August 15, 2025, Wen's **Nature Chemical Engineering** paper is now [online](https://www.nature.com/articles/s44286-025-00259-x). As of September 22, 2025, Nature Chemical Engineering published 25 papers in the year of 2025. And Wen's paper is one of them. 
 
