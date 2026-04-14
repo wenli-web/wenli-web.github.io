@@ -11,8 +11,9 @@ Wen Li is a Materials Research Society (MRS) [Graduate Student Gold Award winner
 
 His work spans two complementary directions on **electrical biointerface**. The first is therapeutic bioelectronics: engineering wearable devices that intervene in human physiology to treat disease. Wen designed an electrochemical hydrogel that generates, stores, and sustainably delivers hydrogen gas directly into wounded tissue, scavenging the reactive oxygen species that drive damage in pressure ulcers (bedsores) and modulating the NF-κB signaling pathway. The device significantly accelerated wound healing in animal models and was published as a first-author paper in [Nature Chemical Engineering](https://www.nature.com/articles/s44286-025-00259-x). Wen then built an integrated electrochemical hydrogen sensor, turning the system into a closed-loop therapeutic platform capable of adapting its dosing to individual wound chemistry in real time.
 
-The second direction is perceptual engineering at the human-computer interface. Here Wen builds wearables that reshape what the body feels. His current project exploits **thermal referral** — a cross-modal perceptual phenomenon in which thermal sensations at one skin site are felt at a distant site when combined with tactile input — to deliver illusory heat or cold to a target tissue without placing any thermal source on the tissue itself. By pairing a single remote thermal source with *electrotactile stimulation* of skin mechanoreceptors, the device renders heat and cold sensations on demand. This opens new possibilities for thermal therapy on fragile tissue such as wound sites, for immersive virtual interaction, and as a probe into how the nervous system integrates thermal and tactile information. One of the work is currently under review at a top human-computer interaction conference. He is now preparing the second submission.
-Across both directions, Wen is drawn to the question of how wearable interfaces can become genuinely personalized — adapting to each user's unique physiology and sensory responses rather than applying one-size-fits-all stimulation. His PhD training across electrochemistry, circuit design, human psychophysics, and in vivo validation gives him a rare interdisciplinary foundation for building the next generation of intelligent, adaptive device systems.
+The second direction is perceptual engineering at the human-computer interface. Here Wen builds wearables that reshape what the body feels. His current project exploits **thermal referral** — a cross-modal perceptual phenomenon in which thermal sensations at one skin site are felt at a distant site when combined with tactile input — to deliver illusory heat or cold to a target tissue without placing any thermal source on the tissue itself. By pairing a single remote thermal source with *electrotactile stimulation* of skin mechanoreceptors, the device renders heat and cold sensations on demand. This opens new possibilities for thermal therapy on fragile tissue such as wound sites, for immersive virtual interaction, and as a probe into how the nervous system integrates thermal and tactile information. One of the work is currently under review at a top human-computer interaction conference. He is now investigating the *transfer function* between electrotactile stimulation and thermal sensation on human arm and preparing the second submission.
+
+His PhD training across electrochemistry, circuit design, in vivo validation, and human psychophysics gives him a rare interdisciplinary foundation for building the next generation of intelligent, adaptive device systems.
 
 Beyond research, Wen co-founded [H-Pad](https://www.hpad.us/) with his undergraduate mentee Brennan Lee, winning $5,000 in seed funding from the University of Chicago [College New Venture Challenge](https://polsky.uchicago.edu/2025/03/10/exactics-wins-2025-college-new-venture-challenge-securing-115k-for-innovative-rapid-diagnostic-tests/). His research has been recognized with the MRS Graduate Student Gold Award and Best Poster Award, the 2025 Benjamin Ball Freud Merit Scholarship (UChicago Chemistry). He has contributed to publications in Nature, Nature Nanotechnology, Nature Sustainability, and Matter, with first-author work in Nature Chemical Engineering, CCS Chemistry, and Langmuir.
 
@@ -33,8 +34,6 @@ News
 **June 6, 2025** — Wen receives the **Benjamin Ball Freud Merit Scholarship** from the UChicago Chemistry department.
 
 **May 21, 2025** — Wen's *Nature Chemical Engineering* paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion Therapy** is accepted in principle.
-
-**May 12, 2025** — Wen is nominated for **Schmidt Science Fellows** 2026.
 
 ------
 
@@ -87,10 +86,10 @@ More papers can be found on [Google Scholar](https://scholar.google.com/citation
 
 Academic and Community Service
 ------
-**Peer Review** — Since May 2024, Wen serves as a peer reviewer for *ACS Nano* and *Device* (American Chemical Society and Cell Press).
+**Peer Review** — Since May 2024, Wen serves as a peer reviewer for journals (ACS Nano, Device, npj Biomedical Innovations, IMWUT) and conferences (EuroHaptics).
 
 **Entrepreneurship** — In 2024, Wen co-founded [H-Pad](https://www.hpad.us/) and serves as CTO. He developed a medical device to treat bedsores and demonstrated its effectiveness in preclinical testing. His team was one of 15 out of ~70 to advance to CNVC Phase II, winning $5,000 in seed funding.
 
-**Chemistry Student Union** — Wen served as team leader of the academic service department in the Chemistry Student Union at Nanjing University. He organized 5+ academic seminars and 2+ exam review sessions, and received the Exceptional Team Leader and Exceptional Freshman Mentor awards.
-
 **Teaching Assistant** — From 2021 to 2022, Wen TAed Organic Chemistry, Physical Chemistry Laboratory, and Chemical Kinetics. He developed and delivered weekly recitation sessions, supervised 30+ students in laboratory settings, and held weekly office hours.
+
+**Chemistry Student Union** — Wen served as team leader of the academic service department in the Chemistry Student Union at Nanjing University. He organized 5+ academic seminars and 2+ exam review sessions, and received the Exceptional Team Leader and Exceptional Freshman Mentor awards.
