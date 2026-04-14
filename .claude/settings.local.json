@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where ruby:*)",
+      "Bash(where gem:*)",
+      "Bash(where bundle:*)",
+      "Bash(where jekyll:*)",
+      "Bash(where docker:*)",
+      "Bash(powershell -Command \"Get-Command ruby,gem,bundle,jekyll,docker,node -ErrorAction SilentlyContinue | Select-Object Name,Source\")",
+      "Bash(cmd /c \"ruby --version & gem --version & bundle --version & jekyll --version & docker --version & node --version\")"
+    ]
+  }
+}
