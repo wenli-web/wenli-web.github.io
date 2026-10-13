@@ -41,7 +41,15 @@ Key Publications
 ======
 
 <div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub1.jpg" alt="pub1" width="500"></div>
+  <div style="text-align: center;"><img src="/images/UIST_webiste.png" alt="pub1" width="500"></div>
+  <p style="margin: 0.5em 0 0.1em 0;"><strong>UIST 2026</strong></p>
+  <p style="margin: 0 0 0.1em 0;"><a href="https://arxiv.org/abs/2605.00240"><strong>Electrotactile Improves Thermal Referral</strong></a></p>
+  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Jing Zhang, et al., B Tian</small></p>
+  <p style="margin: 0; line-height: 1.4;"><small>We introduce electrotactile-based thermal referral to redirect thermal sensations to skin locations without thermal actuators. Compared with conventional vibrotactile approaches, our method improves cold referral, enhances thermal perception while minimizing unwanted tactile sensations, and enables more realistic contact and non-contact thermal experiences in VR.</small></p>
+</div>
+
+<div style="margin-bottom: 1.5em;">
+  <div style="text-align: center;"><img src="/images/pub1.jpg" alt="pub2" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature Chemical Engineering 2025</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s44286-025-00259-x"><strong>Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion Therapy</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Jing Zhang, et al., B Tian</small></p>
@@ -49,7 +57,7 @@ Key Publications
 </div>
 
 <div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub2.jpeg" alt="pub2" width="500"></div>
+  <div style="text-align: center;"><img src="/images/pub2.jpeg" alt="pub3" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>Langmuir 2023</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274"><strong>Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Judah Huberman-Shlaes, B Tian</small></p>
@@ -57,7 +65,7 @@ Key Publications
 </div>
 
 <div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub3.jpg" alt="pub3" width="500"></div>
+  <div style="text-align: center;"><img src="/images/pub3.jpg" alt="pub4" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>CCS Chemistry 2022</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672"><strong>A Strong and Rigid Coordination Adaptable Network that Can Be Reprocessed and Recycled at Mild Conditions</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Hong-Qin Wang, Wen-Tong Gao, et al., Cheng-Hui Li</small></p>
@@ -65,7 +73,7 @@ Key Publications
 </div>
 
 <div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub4.jpg" alt="pub4" width="500"></div>
+  <div style="text-align: center;"><img src="/images/pub4.jpg" alt="pub5" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature Nanotechnology 2025</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s41565-025-01878-4"><strong>Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><small>Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, <strong>Wen Li</strong>, et al., Bozhi Tian</small></p>
@@ -73,7 +81,7 @@ Key Publications
 </div>
 
 <div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub5.jpg" alt="pub5" width="500"></div>
+  <div style="text-align: center;"><img src="/images/pub5.jpg" alt="pub6" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature 2024</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s41586-024-07016-9"><strong>Monolithic silicon for high spatiotemporal translational photostimulation</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><small>Pengju Li, Jing Zhang, Hidenori Hayashi, Jiping Yue, <strong>Wen Li</strong>, et al., Bozhi Tian</small></p>
