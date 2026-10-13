@@ -44,7 +44,7 @@ Key Publications
   <div style="text-align: center;"><img src="/images/UIST_website.png" alt="pub1" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>UIST 2026</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://arxiv.org/abs/2605.00240"><strong>Electrotactile Improves Thermal Referral</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Jing Zhang, et al., B Tian</small></p>
+  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Rong Ni, Bozhi Tian, Pedro Lopes</small></p>
   <p style="margin: 0; line-height: 1.4;"><small>We introduce electrotactile-based thermal referral to redirect thermal sensations to skin locations without thermal actuators. Compared with conventional vibrotactile approaches, our method improves cold referral, enhances thermal perception while minimizing unwanted tactile sensations, and enables more realistic contact and non-contact thermal experiences in VR.</small></p>
 </div>
 
@@ -52,7 +52,7 @@ Key Publications
   <div style="text-align: center;"><img src="/images/pub1.jpg" alt="pub2" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature Chemical Engineering 2025</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s44286-025-00259-x"><strong>Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion Therapy</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Jing Zhang, et al., B Tian</small></p>
+  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Jing Zhang, et al., Bozhi Tian</small></p>
   <p style="margin: 0; line-height: 1.4;"><small>Molecular hydrogen (H₂) protects organs from reactive oxygen species (ROS) damage associated with ischemia-reperfusion (I/R) injury and inflammation. Existing H₂ delivery methods lack precision, targeting the entire body with substantial leakage. We engineered a wireless, portable hydrogel electrochemical cell that enables on-demand H₂ production via the hydrogen evolution reaction (HER), with controllable generation, localized storage, and sustained diffusion to the tissue-device interface. We validated protective effects against ROS in vitro, ex vivo, and in vivo in a skin I/R pressure ulcer model.</small></p>
 </div>
 
@@ -60,7 +60,7 @@ Key Publications
   <div style="text-align: center;"><img src="/images/pub2.jpeg" alt="pub3" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>Langmuir 2023</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274"><strong>Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Judah Huberman-Shlaes, B Tian</small></p>
+  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Judah Huberman-Shlaes, Bozhi Tian</small></p>
   <p style="margin: 0; line-height: 1.4;"><small>Colloid-based materials with tunable biophysical and chemical properties have demonstrated significant potential across a wide range of biomedical applications. We explore synthetic colloid-based materials at the nano- and microscales and their correlation with biological systems, examining their use in spatial imaging, localized drug delivery, and enhanced functionality.</small></p>
 </div>
 
