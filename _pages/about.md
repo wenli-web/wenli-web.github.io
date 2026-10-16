@@ -41,7 +41,7 @@ Key Publications
 ======
 
 <div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/UIST_website.png" alt="pub1" width="500"></div>
+  <div style="text-align: center;"><img src="/images/UIST_website.png" alt="pub1" width="800"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>UIST 2026</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://arxiv.org/abs/2605.00240"><strong>Electrotactile Improves Thermal Referral</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><a href="https://www.youtube.com/watch?v=iwoeuEEQqQg"><strong>Video available here</strong></a></p>
