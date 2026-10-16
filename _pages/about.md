@@ -44,7 +44,7 @@ Key Publications
   <div style="text-align: center;"><img src="/images/UIST_website.png" alt="pub1" width="500"></div>
   <p style="margin: 0.5em 0 0.1em 0;"><strong>UIST 2026</strong></p>
   <p style="margin: 0 0 0.1em 0;"><a href="https://arxiv.org/abs/2605.00240"><strong>Electrotactile Improves Thermal Referral</strong></a></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://www.youtube.com/watch?v=iwoeuEEQqQg"><strong>Video</strong></a></p>
+  <p style="margin: 0 0 0.2em 0;"><a href="https://www.youtube.com/watch?v=iwoeuEEQqQg"><strong>Video available here</strong></a></p>
   <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Rong Ni, Bozhi Tian, Pedro Lopes</small></p>
   <p style="margin: 0; line-height: 1.4;"><small>We introduce electrotactile-based thermal referral to redirect thermal sensations to skin locations without thermal actuators. Compared with conventional vibrotactile approaches, our method improves cold referral, enhances thermal perception while minimizing unwanted tactile sensations, and enables more realistic contact and non-contact thermal experiences in VR.</small></p> 
 </div>
