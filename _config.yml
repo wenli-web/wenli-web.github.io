@@ -22,7 +22,7 @@ repository               : "wenli-web/wenli-web.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2025-2.png"
+  avatar           : "myphoto.jpeg"
   name             : "Wen Li"
   pronouns         : "he/him"  
   bio              : "Bioelectronics, Biomedical Engineering, Haptics, Human Computer Interaction (HCI)"
