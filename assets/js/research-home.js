@@ -26,7 +26,6 @@
   const status = document.querySelector("#filter-status");
   if (group && items.length) {
     group.hidden = false;
-    group.querySelector("button[data-filter='all'] span").textContent = items.length;
     const buttons = [...group.querySelectorAll("button")];
     buttons.forEach((button) => button.addEventListener("click", () => {
       const filter = button.dataset.filter;

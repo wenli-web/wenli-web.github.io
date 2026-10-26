@@ -43,7 +43,7 @@ redirect_from:
   </div>
   <div class="research-toolbar">
     <div class="filter-group" role="group" aria-label="Filter research by topic" hidden>
-      <button type="button" data-filter="all" aria-pressed="true">All work <span>7</span></button>
+      <button type="button" data-filter="all" aria-pressed="true">Selected work</button>
       <button type="button" data-filter="haptics" aria-pressed="false">Haptics</button>
       <button type="button" data-filter="bioelectronics" aria-pressed="false">Bioelectronics</button>
       <button type="button" data-filter="hci" aria-pressed="false">HCI</button>
@@ -51,7 +51,7 @@ redirect_from:
     </div>
     <a class="text-link scholar-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
-  <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing all 7 selected works.</p>
+  <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing 7 selected works.</p>
   <div class="featured-grid">
     {% for item in site.data.research.featured %}
     <article class="project-card research-item{% if forloop.first %} project-featured{% endif %}" data-category="{{ item.category }}" id="{{ item.id }}">
