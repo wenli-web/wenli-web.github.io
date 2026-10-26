@@ -20,7 +20,6 @@ redirect_from:
   <figure class="hero-portrait">
     <div class="portrait-contours" aria-hidden="true"><span></span><span></span><span></span></div>
     <div class="portrait-frame"><img src="{{ '/images/myphoto.jpeg' | relative_url }}" alt="Wen Li outdoors beside a river." width="1327" height="1296" fetchpriority="high"></div>
-    <div class="portrait-note"><span class="note-mark" aria-hidden="true">↗</span><div>From wearable circuits<br><strong>to human experience.</strong></div></div>
     <figcaption><span class="tiny-dot" aria-hidden="true"></span> University of Chicago <span class="caption-coordinate">Chicago, IL</span></figcaption>
   </figure>
 </section>
@@ -28,13 +27,13 @@ redirect_from:
 <div class="container">
   <div class="research-lenses" aria-label="Research areas">
     <div><span class="lens-number">01</span><p><strong>Stimulate &amp; Sensing</strong><span>Electrical stimulation &amp; tactile sensing</span></p></div>
-    <div><span class="lens-number">02</span><p><strong>Electronics &amp; Biointerface</strong><span>Wearable circuits &amp; electrochemical devices</span></p></div>
+    <div><span class="lens-number">02</span><p><strong>Electronics &amp; Biointerface</strong><span>Wearable circuits &amp; electrical interface</span></p></div>
     <div><span class="lens-number">03</span><p><strong>Therapy &amp; Perception</strong><span>Healthcare &amp; personalized haptics</span></p></div>
   </div>
 </div>
 
 <section class="section container" id="research" aria-labelledby="research-title">
-  <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Connecting materials, devices, and computation<br class="desktop-break"> to how the body feels and heals.</p></div>
+  <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Haptics, Bioelectronics &amp; HCI<br class="desktop-break"> grounded in materials and wearable electronics.</p></div>
   <div class="research-overview">
     <p class="research-overview-copy">His research bridges biomedical engineering, materials science, and human–computer interaction (HCI). His interdisciplinary publication record spans both leading scientific journals, including <em>Nature</em>, <em>Nature Chemical Engineering</em>, <em>Nature Nanotechnology</em>, <em>Nature Biomedical Engineering</em>, <em>Nature Sustainability</em>, <em>Device</em>, and <em>Matter</em>, and premier HCI conferences, including <em>ACM UIST</em>.</p>
     <figure class="summary-overview">
@@ -47,6 +46,7 @@ redirect_from:
       <button type="button" data-filter="all" aria-pressed="true">All work <span>7</span></button>
       <button type="button" data-filter="haptics" aria-pressed="false">Haptics</button>
       <button type="button" data-filter="bioelectronics" aria-pressed="false">Bioelectronics</button>
+      <button type="button" data-filter="hci" aria-pressed="false">HCI</button>
       <button type="button" data-filter="materials" aria-pressed="false">Materials</button>
     </div>
     <a class="text-link scholar-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>

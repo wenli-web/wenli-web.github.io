@@ -2,7 +2,7 @@
   "featured": [
     {
       "id": "personalized-haptics",
-      "category": "haptics",
+      "category": "haptics bioelectronics hci",
       "label": "Wearable interfaces",
       "venue": "Science Robotics",
       "year": "2026",
@@ -24,7 +24,7 @@
     },
     {
       "id": "thermal-referral",
-      "category": "haptics",
+      "category": "haptics hci",
       "label": "Haptic perception",
       "venue": "ACM UIST",
       "year": "2026",
@@ -47,12 +47,12 @@
     },
     {
       "id": "hydrogen-bioelectronics",
-      "category": "bioelectronics",
+      "category": "bioelectronics materials",
       "label": "Wearable bioelectronics",
       "venue": "Nature Chemical Engineering",
       "year": "2025",
       "status": "",
-      "title": "Portable electrochemical bioelectronics for tissue protection",
+      "title": "Hydrogel electrochemical cell for hydrogen therapy.",
       "fullTitle": "Hydrogen evolution and dynamics in hydrogel electrochemical cells for ischemia–reperfusion therapy.",
       "authors": "Wen Li, Jing Zhang, et al., Bozhi Tian",
       "description": "A wearable, wireless electrochemical device for sustained, programmable hydrogen delivery in ischemia–reperfusion and pressure-ulcer models.",
