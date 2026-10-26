@@ -1,108 +1,93 @@
 ---
+layout: research-home
 permalink: /
-title: "Research"
-author_profile: true
-redirect_from: 
+title: "Wen Li — Haptics and Bioelectronics"
+excerpt: "Wen Li is a Ph.D. candidate at the University of Chicago developing wearable bioelectronic interfaces for haptic perception and tissue protection."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Wen Li is a Materials Research Society (MRS) [Graduate Student Gold Award winner](https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients), Benjamin Ball Freud Merit Scholar, and sixth-year PhD candidate at the University of Chicago, advised by [Prof. Bozhi Tian](https://tianlab.uchicago.edu/) (Chemistry) and [Prof. Pedro Lopes](https://lab.plopes.org/) (Computer Science). His vision is to engineer **intelligent bioelectronic input/output devices that stimulate, sense, and model how the human body heals and feels.** His research bridges electrochemistry, materials science, biomedical engineering, and human–computer interaction (HCI). His interdisciplinary publication record spans both leading scientific journals, including *Nature*, *Nature Chemical Engineering*, *Nature Nanotechnology*, *Nature Biomedical Engineering*, *Nature Sustainability*, *Device*, and *Matter*, and premier HCI conferences, including *ACM UIST*.
+<section class="hero container" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Haptics · Bioelectronics · HCI</p>
+    <h1 id="hero-title">Engineering how<br>we <em>feel</em> &amp; <em>heal.</em></h1>
+    <p class="hero-intro">I’m <strong>Wen Li</strong>, a Ph.D. candidate at the University of Chicago. I build wearable bioelectronic interfaces that sense, model, and shape human perception—and support tissue protection.</p>
+    <p class="hero-advisors">Advised by <a href="https://tianlab.uchicago.edu/">Bozhi Tian</a> &amp; <a href="https://lab.plopes.org/">Pedro Lopes</a>.</p>
+    <div class="hero-actions"><a class="button button-dark" href="#research">Explore my research <span aria-hidden="true">↗</span></a><a class="text-link" href="mailto:wenli@uchicago.edu">Get in touch <span aria-hidden="true">↗</span></a></div>
+    <div class="hero-recognition"><span class="recognition-mark" aria-hidden="true">✳</span><p><strong>2025 MRS Graduate Student Gold Award</strong><br><span>Benjamin Ball Freud Merit Scholar</span></p></div>
+  </div>
+  <figure class="hero-portrait">
+    <div class="portrait-contours" aria-hidden="true"><span></span><span></span><span></span></div>
+    <div class="portrait-frame"><img src="{{ '/images/myphoto.jpeg' | relative_url }}" alt="Wen Li outdoors beside a river." width="1327" height="1296" fetchpriority="high"></div>
+    <div class="portrait-note"><span class="note-mark" aria-hidden="true">↗</span><div>From wearable circuits<br><strong>to human experience.</strong></div></div>
+    <figcaption><span class="tiny-dot" aria-hidden="true"></span> University of Chicago <span class="caption-coordinate">Chicago, IL</span></figcaption>
+  </figure>
+</section>
 
-His research focuses on two complementary biointerface designs: **electrochemical biointerfaces** that convert electrical inputs into chemical signals to modulate physiological responses, and **electrical biointerfaces** that use electrotactile to activate sensory nerves to shape human perception.
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/summary.png" alt="summary" width="800"></div>
+<div class="container">
+  <div class="research-lenses" aria-label="Research areas">
+    <div><span class="lens-number">01</span><p><strong>Sense &amp; perceive</strong><span>Touch, temperature &amp; individual perception</span></p></div>
+    <div><span class="lens-number">02</span><p><strong>Build &amp; interface</strong><span>Wearable circuits &amp; electrochemical devices</span></p></div>
+    <div><span class="lens-number">03</span><p><strong>Connect &amp; translate</strong><span>Human experience &amp; biological systems</span></p></div>
+  </div>
 </div>
 
-In **electrochemical biointerfaces**, Wen developed hydrogel electrochemical cells that use precisely controlled electrical inputs to generate, store, and sustainably deliver molecular hydrogen (H₂) to tissues, mitigating oxidative stress and inflammation associated with ischemia–reperfusion injury. This technology demonstrated tissue protection in cellular models, ex vivo hearts, and in vivo animal models of skin pressure ulcers, leading to a first-author publication in [*Nature Chemical Engineering*](https://www.nature.com/articles/s44286-025-00259-x). This work was highlighted in a *Nature Chemical Engineering* [News & Views](https://www.nature.com/articles/s44286-025-00258-y) article and contributed to his recognition with both [the Best Poster Award](https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-fall-meeting/meeting-events/posters/poster-sessions) and [the Graduate Student Gold Award](https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients) at the 2025 MRS Fall Meeting.
+<section class="section container" id="research" aria-labelledby="research-title">
+  <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Connecting materials, devices, and computation<br class="desktop-break"> to how the body feels and heals.</p></div>
+  <div class="research-toolbar">
+    <div class="filter-group" role="group" aria-label="Filter research by topic" hidden>
+      <button type="button" data-filter="all" aria-pressed="true">All work <span>7</span></button>
+      <button type="button" data-filter="haptics" aria-pressed="false">Haptics</button>
+      <button type="button" data-filter="bioelectronics" aria-pressed="false">Bioelectronics</button>
+      <button type="button" data-filter="materials" aria-pressed="false">Materials</button>
+    </div>
+    <a class="text-link scholar-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+  <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing all 7 selected works.</p>
+  <div class="featured-grid">
+    {% for item in site.data.research.featured %}
+    <article class="project-card research-item{% if forloop.first %} project-featured{% endif %}" data-category="{{ item.category }}" id="{{ item.id }}">
+      <div class="project-media {{ item.imageClass }}"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></div>
+      <div class="project-content">
+        <div class="project-meta"><span>{{ item.venue }} · {{ item.year }}</span>{% if item.status != "" %}<span class="status-label">{{ item.status }}</span>{% endif %}</div>
+        <h3><a href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.title }}</a></h3>
+        <p class="project-description">{{ item.description }}</p>
+        <ul class="project-tags" aria-label="Research topics">{% for tag in item.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
+        <div class="project-links"><a class="text-link" href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.linkLabel }} <span aria-hidden="true">↗</span></a>{% if item.video %}<a class="text-link" href="{{ item.video }}">Watch video <span aria-hidden="true">↗</span></a>{% endif %}</div>
+        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle }}</cite><br>{{ item.authors }}.<br>{{ item.venue }}, {{ item.year }}{% if item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <div class="additional-work">
+    <div class="subsection-heading" data-secondary-heading><h3>More selected publications</h3><span>Materials, devices &amp; biointerfaces</span></div>
+    {% for item in site.data.research.publications %}
+    <article class="publication-row research-item" data-category="{{ item.category }}" id="{{ item.id }}">
+      <div class="publication-thumbnail"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="lazy" decoding="async"></div>
+      <div class="publication-copy"><p class="project-meta">{{ item.venue }} · {{ item.year }}</p><h4><a href="{{ item.url }}">{{ item.title }}</a></h4><p class="publication-authors">{{ item.authors }}</p><details class="publication-details"><summary>About this work</summary><p>{{ item.abstract }}</p></details></div>
+      <a class="publication-arrow" href="{{ item.url }}" aria-label="Read {{ item.title | escape }}"><span aria-hidden="true">↗</span></a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 
-In **electrical biointerfaces**, Wen develops wearable haptic input/output devices that measure, model, and personalize human sensory experiences. His work at [ACM UIST 2026](https://arxiv.org/abs/2605.00240) demonstrated how electrotactile stimulation can redirect thermal sensations through *thermal referral*, enabling improved cold referral and realistic contact and non-contact thermal experiences in virtual reality (VR), [video available here](https://www.youtube.com/watch?v=iwoeuEEQqQg). In his ongoing work, currently under review, [preprint available here](Haptic_IO_PREPRINT.pdf), he developed a wearable biointerface that integrates multichannel electrotactile stimulation with capacitive touch sensing to model indivdiual perception. By registering stimulation inputs and user-reported perceptual outputs in a shared body-referenced coordinate frame, he developed personalized models that predict and render tactile and thermal sensations at target locations, with applications in VR, interpersonal communication, sensory substitution, and robotic teleoperation.
+<section class="news-section" id="news" aria-labelledby="news-title">
+  <div class="container news-layout">
+    <div><p class="eyebrow section-label">A few updates</p><h2 id="news-title">Along the way.</h2><p class="section-intro">Research, recognition,<br>and things I’m grateful for.</p></div>
+    <ol class="news-list">{% for item in site.data.research.news %}<li><time datetime="{{ item.date }}">{{ item.displayDate }}</time><p>{% if item.url != "" %}<a href="{{ item.url }}">{{ item.text }} <span aria-hidden="true">↗</span></a>{% else %}{{ item.text }}{% endif %}</p></li>{% endfor %}</ol>
+  </div>
+</section>
 
-Outside research, Wen sings bass with [UChorus](https://music.uchicago.edu/performance-opportunities/vocal/university-chorus) at the University of Chicago — you can hear a recent performance [here](https://vimeo.com/1085021221?share=copy#t=0). He also enjoys climbing, cycling around Chicago, and playing Go.
+<section class="section container about-section" id="about" aria-labelledby="about-title">
+  <div class="about-copy"><p class="eyebrow section-label">A little more about me</p><h2 id="about-title">Curious across disciplines.<br><em>And beyond the lab.</em></h2><p>My work lives between chemistry, biomedical engineering, and human–computer interaction. At UChicago, I develop wearable interfaces for therapy and perception with <a href="https://tianlab.uchicago.edu/">Bozhi Tian</a> and <a href="https://lab.plopes.org/">Pedro Lopes</a>.</p><p>Outside the lab, I sing bass with <a href="https://music.uchicago.edu/performance-opportunities/vocal/university-chorus">UChorus</a>, climb, cycle around Chicago, and play Go. <a href="https://vimeo.com/1085021221?share=copy#t=0">Here’s a recent performance <span aria-hidden="true">↗</span></a></p><div class="about-links"><a class="text-link" href="{{ site.author.cv | relative_url }}">Full CV <span aria-hidden="true">↗</span></a><a class="text-link" href="https://orcid.org/0009-0007-4512-0240">ORCID <span aria-hidden="true">↗</span></a></div></div>
+  <div class="experience-list">
+    <div><span class="experience-date">2021 — present</span><h3>University of Chicago</h3><p>Ph.D. candidate · Chemistry<br>Bioelectronic interfaces for therapy &amp; perception</p></div>
+    <div><span class="experience-date">Summer 2024</span><h3>Futurewei</h3><p>Materials Research Intern<br>Polymeric optics &amp; self-healing materials</p></div>
+    <div><span class="experience-date">2017 — 2021</span><h3>Nanjing University</h3><p>B.S. in Chemistry with Honors</p></div>
+  </div>
+  <div class="service-strip"><div><h3>Building together</h3><p>Co-founded HPad, translating bioelectronics research into a medical-device venture. Selected for CNVC Phase II, with $5K in team seed funding.</p></div><div><h3>Sharing knowledge</h3><p>Teaching, mentoring, and peer review across materials, bioelectronics, and HCI. Reviewer for venues including ACS Nano, Device, IMWUT, and EuroHaptics.</p></div></div>
+</section>
 
-------
-
-News
-======
-**August 8, 2026** — Wen's [**Electrotactile improves thermal referral**](https://arxiv.org/abs/2605.00240) paper is accepted by ACM UIST 2026. Look forward to giving the talk in Detroit!
-
-**December 16, 2025** — Wen received **The Olshansky Graduate Student Travel Award** from the UChicago Chemistry department.
-
-**December 5, 2025** — Wen received both the Material Research Society [**Graduate Student Gold Award**](https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients) and the [**Best Poster Award**](https://www.mrs.org/meetings-events/annual-meetings/2025-mrs-fall-meeting/meeting-events/posters/poster-sessions) at the 2025 MRS Fall Meeting. It is rare for one student to receive both the Gold Award and Best Poster at the same MRS meeting.
-
-**October 24, 2025** — Wen was selected as a **Graduate Student Award Finalist** for the 2025 MRS Fall Meeting — the only UChicago student to reach this stage in 2025. He competed for the Gold Award on December 2 in Boston, MA.
-
-**August 15, 2025** — Wen's **Nature Chemical Engineering** paper is now [online](https://www.nature.com/articles/s44286-025-00259-x). As of September 22, 2025, *Nature Chemical Engineering* had published 25 papers in 2025; Wen's is one of them.
-
-**June 6, 2025** — Wen receives the **Benjamin Ball Freud Merit Scholarship** from the UChicago Chemistry department.
-
-**May 21, 2025** — Wen's *Nature Chemical Engineering* paper on **Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion Therapy** is accepted in principle.
-
-------
-
-Key Publications
-======
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/UIST_website.png" alt="pub1" width="800"></div>
-  <p style="margin: 0.5em 0 0.1em 0;"><strong>UIST 2026</strong></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://arxiv.org/abs/2605.00240"><strong>Electrotactile Improves Thermal Referral</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><a href="https://www.youtube.com/watch?v=iwoeuEEQqQg"><strong>Video available here</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Rong Ni, Bozhi Tian, Pedro Lopes</small></p>
-  <p style="margin: 0; line-height: 1.4;"><small>We introduce electrotactile-based thermal referral to redirect thermal sensations to skin locations without thermal actuators. Compared with conventional vibrotactile approaches, our method improves cold referral, enhances thermal perception while minimizing unwanted tactile sensations, and enables more realistic contact and non-contact thermal experiences in VR.</small></p> 
-</div>
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub1.jpg" alt="pub2" width="500"></div>
-  <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature Chemical Engineering 2025</strong></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s44286-025-00259-x"><strong>Hydrogen Evolution and Dynamics in Hydrogel Electrochemical Cells for Ischemia-Reperfusion Therapy</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Jing Zhang, et al., Bozhi Tian</small></p>
-  <p style="margin: 0; line-height: 1.4;"><small>Molecular hydrogen (H₂) protects organs from reactive oxygen species (ROS) damage associated with ischemia-reperfusion (I/R) injury and inflammation. Existing H₂ delivery methods lack precision, targeting the entire body with substantial leakage. We engineered a wireless, portable hydrogel electrochemical cell that enables on-demand H₂ production via the hydrogen evolution reaction (HER), with controllable generation, localized storage, and sustained diffusion to the tissue-device interface. We validated protective effects against ROS in vitro, ex vivo, and in vivo in a skin I/R pressure ulcer model.</small></p>
-</div>
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub2.jpeg" alt="pub3" width="500"></div>
-  <p style="margin: 0.5em 0 0.1em 0;"><strong>Langmuir 2023</strong></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274"><strong>Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Judah Huberman-Shlaes, Bozhi Tian</small></p>
-  <p style="margin: 0; line-height: 1.4;"><small>Colloid-based materials with tunable biophysical and chemical properties have demonstrated significant potential across a wide range of biomedical applications. We explore synthetic colloid-based materials at the nano- and microscales and their correlation with biological systems, examining their use in spatial imaging, localized drug delivery, and enhanced functionality.</small></p>
-</div>
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub3.jpg" alt="pub4" width="500"></div>
-  <p style="margin: 0.5em 0 0.1em 0;"><strong>CCS Chemistry 2022</strong></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672"><strong>A Strong and Rigid Coordination Adaptable Network that Can Be Reprocessed and Recycled at Mild Conditions</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small><strong>Wen Li</strong>, Hong-Qin Wang, Wen-Tong Gao, et al., Cheng-Hui Li</small></p>
-  <p style="margin: 0; line-height: 1.4;"><small>We designed and synthesized a coordination adaptable network (CoAN) by crosslinking low-molecular-weight monomers with coordination bonds. The material shows high mechanical rigidity at ambient conditions yet can be reprocessed rapidly and recycled at mild temperatures with no reduction in mechanical properties — superior performance among covalent adaptable networks reported to date.</small></p>
-</div>
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub4.jpg" alt="pub5" width="500"></div>
-  <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature Nanotechnology 2025</strong></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s41565-025-01878-4"><strong>Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small>Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, <strong>Wen Li</strong>, et al., Bozhi Tian</small></p>
-  <p style="margin: 0; line-height: 1.4;"><small>We explore the mechanism through which a nanoporous silicon-based photocatalyst facilitates two-electron oxidation of water to generate hydrogen peroxide under physiological conditions. Precise modulation of intracellular stress granule formation via controlled photoelectrochemical H₂O₂ production enhanced cellular resilience to oxidative stress, with efficacy demonstrated in an ex vivo myocardial ischemia-reperfusion model.</small></p>
-</div>
-
-<div style="margin-bottom: 1.5em;">
-  <div style="text-align: center;"><img src="/images/pub5.jpg" alt="pub6" width="500"></div>
-  <p style="margin: 0.5em 0 0.1em 0;"><strong>Nature 2024</strong></p>
-  <p style="margin: 0 0 0.1em 0;"><a href="https://www.nature.com/articles/s41586-024-07016-9"><strong>Monolithic silicon for high spatiotemporal translational photostimulation</strong></a></p>
-  <p style="margin: 0 0 0.2em 0;"><small>Pengju Li, Jing Zhang, Hidenori Hayashi, Jiping Yue, <strong>Wen Li</strong>, et al., Bozhi Tian</small></p>
-  <p style="margin: 0; line-height: 1.4;"><small>We demonstrate tunable spatiotemporal photostimulation of cardiac systems using a non-genetic, semiconductor-enabled biomodulation platform. The leadless silicon-based devices achieve multisite optical pacing of cultured cardiomyocytes, isolated rat hearts, in vivo rat and mouse hearts, and — in the first demonstration of its kind — a pig heart in vivo via a custom endoscopic delivery device.</small></p>
-</div>
-
-More papers can be found on [Google Scholar](https://scholar.google.com/citations?user=9D4DmSUAAAAJ&hl=en).
-
-------
-
-Academic and Community Service
-------
-**Peer Review** — Since May 2024, Wen serves as a peer reviewer for journals (ACS Nano, Device, npj Biomedical Innovations, IMWUT) and conferences (EuroHaptics).
-
-**Entrepreneurship** — In 2024, Wen co-founded [H-Pad](https://www.hpad.us/) and serves as CTO. He developed a medical device to treat bedsores and demonstrated its effectiveness in preclinical testing. His team was one of 15 out of ~70 to advance to CNVC Phase II, winning $5,000 in seed funding.
-
-**Teaching Assistant** — From 2021 to 2022, Wen TAed Organic Chemistry, Physical Chemistry Laboratory, and Chemical Kinetics. He developed and delivered weekly recitation sessions, supervised 30+ students in laboratory settings, and held weekly office hours.
-
-**Chemistry Student Union** — Wen served as team leader of the academic service department in the Chemistry Student Union at Nanjing University. He organized 5+ academic seminars and 2+ exam review sessions, and received the Exceptional Team Leader and Exceptional Freshman Mentor awards.
+<section class="contact-section" aria-labelledby="contact-title"><div class="container contact-inner"><div><p class="eyebrow">Ideas start with a conversation.</p><h2 id="contact-title">Let’s make contact.</h2></div><a href="mailto:wenli@uchicago.edu">wenli@uchicago.edu <span aria-hidden="true">↗</span></a></div></section>

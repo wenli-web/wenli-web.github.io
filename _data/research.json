@@ -1,0 +1,147 @@
+{
+  "featured": [
+    {
+      "id": "personalized-haptics",
+      "category": "haptics",
+      "label": "Wearable interfaces",
+      "venue": "Science Robotics",
+      "year": "2026",
+      "status": "Under review",
+      "title": "Learning personalized haptic perception",
+      "fullTitle": "A wearable input/output interface learns personalized models of haptic perception.",
+      "authors": "Wen Li, E. Adam, Z. Xu, J. Yao, A. Esmer, X. Ni, Bozhi Tian, Pedro Lopes",
+      "description": "A wearable input/output interface uses Bayesian learning to model and render individual tactile and thermal percepts, with applications in VR, sensory substitution, and haptic-guided robot teleoperation.",
+      "tags": [
+        "Electrotactile",
+        "Bayesian learning",
+        "Teleoperation"
+      ],
+      "image": "/images/summary.png",
+      "imageAlt": "Wearable haptic input/output device with an electrode array on the forearm.",
+      "imageClass": "device-crop",
+      "url": "/files/Haptic_IO_PREPRINT.pdf",
+      "linkLabel": "Read the preprint"
+    },
+    {
+      "id": "thermal-referral",
+      "category": "haptics",
+      "label": "Haptic perception",
+      "venue": "ACM UIST",
+      "year": "2026",
+      "status": "",
+      "title": "Electrotactile Improves Thermal Referral",
+      "fullTitle": "Electrotactile Improves Thermal Referral.",
+      "authors": "Wen Li, Rong Ni, Bozhi Tian, Pedro Lopes",
+      "description": "Redirecting thermal sensations to skin locations without thermal actuators by combining electrotactile stimulation with thermal referral.",
+      "tags": [
+        "Thermal perception",
+        "Wearable hardware",
+        "VR"
+      ],
+      "image": "/images/UIST_website.png",
+      "imageAlt": "Study illustration comparing vibrotactile and electrotactile thermal referral in VR.",
+      "imageClass": "figure-contain",
+      "url": "https://arxiv.org/abs/2605.00240",
+      "linkLabel": "Read the paper",
+      "video": "https://www.youtube.com/watch?v=iwoeuEEQqQg"
+    },
+    {
+      "id": "hydrogen-bioelectronics",
+      "category": "bioelectronics",
+      "label": "Wearable bioelectronics",
+      "venue": "Nature Chemical Engineering",
+      "year": "2025",
+      "status": "",
+      "title": "Portable electrochemical bioelectronics for tissue protection",
+      "fullTitle": "Hydrogen Evolution in Portable Hydrogel Electrochemical Bioelectronics for Ischemia-Reperfusion Therapy.",
+      "authors": "Wen Li, Jing Zhang, et al., Bozhi Tian",
+      "description": "A wearable, wireless electrochemical device for sustained, programmable hydrogen delivery in ischemia–reperfusion and pressure-ulcer models.",
+      "tags": [
+        "Electrochemistry",
+        "PCB design",
+        "Embedded systems"
+      ],
+      "image": "/images/pub1.jpg",
+      "imageAlt": "Research figure illustrating a portable hydrogel electrochemical device for hydrogen delivery.",
+      "imageClass": "figure-contain",
+      "url": "https://www.nature.com/articles/s44286-025-00259-x",
+      "linkLabel": "Read the paper"
+    }
+  ],
+  "publications": [
+    {
+      "id": "nanoporous-silicon",
+      "category": "bioelectronics",
+      "venue": "Nature Nanotechnology",
+      "year": "2025",
+      "title": "Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates",
+      "authors": "Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, Wen Li, et al., Bozhi Tian",
+      "image": "/images/pub4.jpg",
+      "imageAlt": "Scientific figure from the nanoporous silicon photoelectrochemical study.",
+      "url": "https://www.nature.com/articles/s41565-025-01878-4",
+      "abstract": "A nanoporous silicon platform for photoelectrochemical regulation of intracellular condensates."
+    },
+    {
+      "id": "silicon-photostimulation",
+      "category": "bioelectronics",
+      "venue": "Nature",
+      "year": "2024",
+      "title": "Monolithic silicon for high spatiotemporal translational photostimulation",
+      "authors": "Pengju Li, Jing Zhang, Hidenori Hayashi, Jiping Yue, Wen Li, et al., Bozhi Tian",
+      "image": "/images/pub5.jpg",
+      "imageAlt": "Scientific figure from the monolithic silicon photostimulation study.",
+      "url": "https://www.nature.com/articles/s41586-024-07016-9",
+      "abstract": "Semiconductor-enabled photostimulation of cardiac systems. I contributed to device fabrication and cardiac photostimulation experiments as part of the research team."
+    },
+    {
+      "id": "colloid-materials",
+      "category": "materials",
+      "venue": "Langmuir",
+      "year": "2023",
+      "title": "Perspectives on Multiscale Colloid-Based Materials for Biomedical Applications",
+      "authors": "Wen Li, Judah Huberman-Shlaes, Bozhi Tian",
+      "image": "/images/pub2.jpeg",
+      "imageAlt": "Overview of multiscale colloid-based materials for biomedical applications.",
+      "url": "https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274",
+      "abstract": "A perspective on synthetic colloid-based materials at nano- and microscales and their connections to biological systems, including imaging and localized delivery."
+    },
+    {
+      "id": "self-healing-polymers",
+      "category": "materials",
+      "venue": "CCS Chemistry",
+      "year": "2022",
+      "title": "A strong and rigid coordination adaptable network that can be reprocessed and recycled at mild conditions",
+      "authors": "Wen Li, Hong-Qin Wang, et al., Cheng-Hui Li",
+      "image": "/images/pub3.jpg",
+      "imageAlt": "Scientific figure showing a coordination adaptable polymer network.",
+      "url": "https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672",
+      "abstract": "A coordination adaptable polymer network that combines mechanical strength with reprocessability, recyclability, and self-healing."
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-08-08",
+      "displayDate": "Aug 2026",
+      "text": "Electrotactile Improves Thermal Referral accepted at ACM UIST 2026.",
+      "url": "https://arxiv.org/abs/2605.00240"
+    },
+    {
+      "date": "2025-12-16",
+      "displayDate": "Dec 2025",
+      "text": "Received the Olshansky Graduate Student Travel Award at UChicago.",
+      "url": ""
+    },
+    {
+      "date": "2025-12-05",
+      "displayDate": "Dec 2025",
+      "text": "Received the MRS Graduate Student Gold Award and Best Poster Award.",
+      "url": "https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients"
+    },
+    {
+      "date": "2025-06-06",
+      "displayDate": "Jun 2025",
+      "text": "Selected as a Benjamin Ball Freud Merit Scholar.",
+      "url": ""
+    }
+  ]
+}
