@@ -90,7 +90,7 @@ redirect_from:
   <div class="about-copy"><p class="eyebrow section-label">A little more about me</p><h2 id="about-title">Beyond the lab.</h2><p>Outside the lab, I sing bass with <a href="https://music.uchicago.edu/performance-opportunities/vocal/university-chorus">UChorus</a>, climb, cycle around Chicago, and play Go. <a href="https://vimeo.com/1085021221?share=copy#t=0">Here’s a recent performance <span aria-hidden="true">↗</span></a></p></div>
   <div class="experience-list">
     <div><span class="experience-date">2021 — present</span><h3>University of Chicago</h3><p>Sixth-year Ph.D. candidate · Chemistry<br>Bioelectronic interfaces for therapy &amp; perception</p></div>
-    <div><span class="experience-date">Jan — Jun 2020</span><h3>UC Berkeley</h3><p>Exchange Student · Materials Science and Engineering<br>Advisor: Phillip B. Messersmith</p></div>
+    <div><span class="experience-date">Jan — Jun 2020</span><h3>UC Berkeley</h3><p>Exchange Student · Materials Science and Engineering</p></div>
     <div><span class="experience-date">2017 — 2021</span><h3>Nanjing University</h3><p>B.S. in Chemistry with Honors</p></div>
   </div>
   <div class="service-strip"><div><h3>Peer review</h3><p>Reviewer for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
