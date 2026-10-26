@@ -79,8 +79,6 @@ redirect_from:
   </div>
 </section>
 
-{% include teaching-section.html %}
-
 <section class="news-section" id="news" aria-labelledby="news-title">
   <div class="container news-layout">
     <div><p class="eyebrow section-label">A few updates</p><h2 id="news-title">Along the way.</h2><p class="section-intro">Research, recognition,<br>and things I’m grateful for.</p></div>
