@@ -1,8 +1,8 @@
 ---
 layout: research-home
 permalink: /
-title: "Wen Li — Haptics and Bioelectronics"
-excerpt: "Wen Li is a Ph.D. candidate at the University of Chicago developing wearable bioelectronic interfaces for haptic perception and tissue protection."
+title: "Wen Li — Haptics, Bioelectronics & HCI"
+excerpt: "Wen Li — Haptics, Bioelectronics & HCI. Wearable bioelectronic interfaces that stimulate, sense and model human perception and support healthcare."
 author_profile: false
 redirect_from:
   - /about/
@@ -11,12 +11,12 @@ redirect_from:
 
 <section class="hero container" aria-labelledby="hero-title">
   <div class="hero-copy">
-    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Haptics · Bioelectronics · HCI</p>
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Haptics, Bioelectronics &amp; HCI</p>
+    <p class="hero-intro hero-credentials"><strong>Wen Li</strong> is a Materials Research Society (MRS) <a href="https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients">Graduate Student Gold Award winner</a>, <strong>Benjamin Ball Freud Merit Scholar</strong>.</p>
     <h1 id="hero-title">Engineering how<br>we <em>feel</em> &amp; <em>heal.</em></h1>
-    <p class="hero-intro">I’m <strong>Wen Li</strong>, a Ph.D. candidate at the University of Chicago. I build wearable bioelectronic interfaces that sense, model, and shape human perception—and support tissue protection.</p>
-    <p class="hero-advisors">Advised by <a href="https://tianlab.uchicago.edu/">Bozhi Tian</a> &amp; <a href="https://lab.plopes.org/">Pedro Lopes</a>.</p>
+    <p class="hero-intro">I build wearable bioelectronic interfaces that stimulate, sense and model human perception and support healthcare.</p>
+    <p class="hero-advisors">Ph.D. candidate at the University of Chicago.<br>Advised by <a href="https://tianlab.uchicago.edu/">Bozhi Tian</a> &amp; <a href="https://lab.plopes.org/">Pedro Lopes</a>.</p>
     <div class="hero-actions"><a class="button button-dark" href="#research">Explore my research <span aria-hidden="true">↗</span></a><a class="text-link" href="mailto:wenli@uchicago.edu">Get in touch <span aria-hidden="true">↗</span></a></div>
-    <div class="hero-recognition"><span class="recognition-mark" aria-hidden="true">✳</span><p><strong>2025 MRS Graduate Student Gold Award</strong><br><span>Benjamin Ball Freud Merit Scholar</span></p></div>
   </div>
   <figure class="hero-portrait">
     <div class="portrait-contours" aria-hidden="true"><span></span><span></span><span></span></div>
@@ -28,14 +28,21 @@ redirect_from:
 
 <div class="container">
   <div class="research-lenses" aria-label="Research areas">
-    <div><span class="lens-number">01</span><p><strong>Sense &amp; perceive</strong><span>Touch, temperature &amp; individual perception</span></p></div>
-    <div><span class="lens-number">02</span><p><strong>Build &amp; interface</strong><span>Wearable circuits &amp; electrochemical devices</span></p></div>
-    <div><span class="lens-number">03</span><p><strong>Connect &amp; translate</strong><span>Human experience &amp; biological systems</span></p></div>
+    <div><span class="lens-number">01</span><p><strong>stimulate &amp; sensing</strong><span>Electrical stimulation &amp; tactile sensing</span></p></div>
+    <div><span class="lens-number">02</span><p><strong>Electronics &amp; biointerface</strong><span>Wearable circuits &amp; electrochemical devices</span></p></div>
+    <div><span class="lens-number">03</span><p><strong>Therapy &amp; perception</strong><span>Healthcare &amp; personalized haptics</span></p></div>
   </div>
 </div>
 
 <section class="section container" id="research" aria-labelledby="research-title">
   <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Connecting materials, devices, and computation<br class="desktop-break"> to how the body feels and heals.</p></div>
+  <div class="research-overview">
+    <p class="research-overview-copy">His research bridges biomedical engineering, materials science, and human–computer interaction (HCI). His interdisciplinary publication record spans both leading scientific journals, including <em>Nature</em>, <em>Nature Chemical Engineering</em>, <em>Nature Nanotechnology</em>, <em>Nature Biomedical Engineering</em>, <em>Nature Sustainability</em>, <em>Device</em>, and <em>Matter</em>, and premier HCI conferences, including <em>ACM UIST</em>.</p>
+    <figure class="summary-overview">
+      <img src="{{ '/images/summary.png' | relative_url }}" alt="Research overview showing electrochemical biointerfaces for therapy, electrical interfaces for thermal referral, and wearable input/output interfaces for personalized haptic perception." width="4400" height="2097" loading="lazy" decoding="async">
+      <figcaption><span>Wearable bioelectronic interfaces for therapy and perception.</span><a class="text-link" href="{{ '/images/summary.png' | relative_url }}" target="_blank" rel="noopener">View full-size image <span aria-hidden="true">↗</span></a></figcaption>
+    </figure>
+  </div>
   <div class="research-toolbar">
     <div class="filter-group" role="group" aria-label="Filter research by topic" hidden>
       <button type="button" data-filter="all" aria-pressed="true">All work <span>7</span></button>
