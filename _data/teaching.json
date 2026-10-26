@@ -17,6 +17,25 @@
   "mentorship": "I have also mentored undergraduate and graduate researchers.",
   "photos": [
     {
+      "src": "/images/teaching-pencil-sketch.png",
+      "alt": "Graphite pencil sketch of an instructor and two adult students discussing a molecular diagram at a chalkboard, with laboratory glassware nearby.",
+      "caption": "Chemistry teaching · illustrative pencil sketch",
+      "width": 1536,
+      "height": 1024,
+      "personal": false,
+      "generated": true,
+      "generator": "ImageGen"
+    }
+  ],
+  "sources": [
+    "CV_Wen Li-Oct 25 2026-haptic track.docx, Teaching Assistant (P051–P052)",
+    "CV_Wen Li-Oct 16 2026.docx, Mentoring",
+    "User confirmation, 2026-10-26: 50+ students supported"
+  ],
+  "photoSourceChecked": "2026-10-26",
+  "studentsSupported": "50+",
+  "previousIllustrations": [
+    {
       "src": "/images/teaching-laboratory.jpg",
       "alt": "Microscope and laboratory glassware in an illustrative chemistry classroom photograph.",
       "caption": "Chemistry laboratory · illustrative image",
@@ -28,9 +47,5 @@
       "height": 729
     }
   ],
-  "sources": [
-    "CV_Wen Li-Oct 25 2026-haptic track.docx, Teaching Assistant (P051–P052)",
-    "CV_Wen Li-Oct 16 2026.docx, Mentoring"
-  ],
-  "photoSourceChecked": "2026-10-26"
+  "illustrationUpdated": "2026-10-26"
 }

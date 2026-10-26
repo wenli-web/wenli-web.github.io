@@ -6,7 +6,7 @@
       <p class="teaching-appointment"><strong>{{ site.data.teaching.role }}</strong> · {{ site.data.teaching.institution }}<br><span>{{ site.data.teaching.periods }}</span></p>
       <p class="teaching-description">{{ site.data.teaching.description }}</p>
       <ul class="teaching-courses" aria-label="Courses taught as a teaching assistant">{% for course in site.data.teaching.courses %}<li><span aria-hidden="true">{{ forloop.index | prepend: '0' }}</span>{{ course }}</li>{% endfor %}</ul>
-      <div class="teaching-practice"><span class="teaching-stat"><strong>30+</strong><span>students supported in teaching laboratories</span></span><p>{{ site.data.teaching.mentorship }}</p></div>
+      <div class="teaching-practice"><span class="teaching-stat"><strong>{{ site.data.teaching.studentsSupported }}</strong><span>students supported</span></span><p>{{ site.data.teaching.mentorship }}</p></div>
     </div>
     <div class="teaching-gallery">
       {% for photo in site.data.teaching.photos %}
