@@ -9,7 +9,7 @@
       "status": "Under review",
       "title": "Learning personalized haptic perception",
       "fullTitle": "A wearable input/output interface learns personalized models of haptic perception.",
-      "authors": "Wen Li, E. Adam, Z. Xu, J. Yao, A. Esmer, X. Ni, Bozhi Tian, Pedro Lopes",
+      "authors": "Wen Li, E. M. Adams, Z. Xu, J. Yao, A. Esmer, X. Ni, Bozhi Tian, Pedro Lopes",
       "description": "A wearable input/output interface uses Bayesian learning to model and render individual tactile and thermal percepts, with applications in VR, sensory substitution, and haptic-guided robot teleoperation.",
       "tags": [
         "Electrotactile",
@@ -53,7 +53,7 @@
       "year": "2025",
       "status": "",
       "title": "Portable electrochemical bioelectronics for tissue protection",
-      "fullTitle": "Hydrogen Evolution in Portable Hydrogel Electrochemical Bioelectronics for Ischemia-Reperfusion Therapy.",
+      "fullTitle": "Hydrogen evolution and dynamics in hydrogel electrochemical cells for ischemia–reperfusion therapy.",
       "authors": "Wen Li, Jing Zhang, et al., Bozhi Tian",
       "description": "A wearable, wireless electrochemical device for sustained, programmable hydrogen delivery in ischemia–reperfusion and pressure-ulcer models.",
       "tags": [

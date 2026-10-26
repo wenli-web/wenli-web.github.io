@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Wen Li — Haptics, Bioelectronics &amp; HCI</title>
+  <title>{% if page.url != '/' %}{{ page.title | escape }} — {% endif %}Wen Li — Haptics, Bioelectronics &amp; HCI</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
   <meta name="author" content="Wen Li">
   <meta name="theme-color" content="#f7f6f2">
@@ -25,9 +25,10 @@
       <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Wen Li home"><span class="brand-symbol" aria-hidden="true">w<span>.</span></span><span>Wen Li</span></a>
       <button class="menu-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" hidden><span class="menu-label">Menu</span><span class="menu-lines" aria-hidden="true"></span></button>
       <nav class="primary-nav" id="primary-nav" aria-label="Main navigation">
-        <a href="#research">Research</a>
-        <a href="#news">News</a>
-        <a href="#about">About</a>
+        <a href="{% if page.url != '/' %}{{ '/' | relative_url }}{% endif %}#research">Research</a>
+        <a href="{% if page.url != '/' %}{{ '/' | relative_url }}{% endif %}#teaching">Teaching</a>
+        <a href="{% if page.url != '/' %}{{ '/' | relative_url }}{% endif %}#news">News</a>
+        <a href="{% if page.url != '/' %}{{ '/' | relative_url }}{% endif %}#about">About</a>
         <a class="nav-cv" href="{{ site.author.cv | relative_url }}">View CV <span aria-hidden="true">↗</span></a>
       </nav>
     </div>

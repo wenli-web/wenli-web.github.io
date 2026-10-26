@@ -1,0 +1,20 @@
+<section class="teaching-section" id="teaching" aria-labelledby="teaching-title">
+  <div class="container teaching-layout">
+    <div class="teaching-copy">
+      <p class="eyebrow section-label">Teaching &amp; mentorship</p>
+      {% if include.standalone %}<h1 class="teaching-heading" id="teaching-title">Teaching chemistry.</h1>{% else %}<h2 class="teaching-heading" id="teaching-title">Teaching chemistry.</h2>{% endif %}
+      <p class="teaching-appointment"><strong>{{ site.data.teaching.role }}</strong> · {{ site.data.teaching.institution }}<br><span>{{ site.data.teaching.periods }}</span></p>
+      <p class="teaching-description">{{ site.data.teaching.description }}</p>
+      <ul class="teaching-courses" aria-label="Courses taught as a teaching assistant">{% for course in site.data.teaching.courses %}<li><span aria-hidden="true">{{ forloop.index | prepend: '0' }}</span>{{ course }}</li>{% endfor %}</ul>
+      <div class="teaching-practice"><span class="teaching-stat"><strong>30+</strong><span>students supported in teaching laboratories</span></span><p>{{ site.data.teaching.mentorship }}</p></div>
+    </div>
+    <div class="teaching-gallery">
+      {% for photo in site.data.teaching.photos %}
+      <figure class="teaching-photo{% if photo.personal %} teaching-photo-personal{% endif %}">
+        <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt | escape }}" width="{{ photo.width }}" height="{{ photo.height }}" loading="lazy" decoding="async">
+        <figcaption><span>{{ photo.caption }}</span>{% if photo.credit %}<span class="photo-credit"><a href="{{ photo.creditUrl }}">{{ photo.credit }}</a> · <a href="{{ photo.licenseUrl }}">{{ photo.license }}</a></span>{% endif %}</figcaption>
+      </figure>
+      {% endfor %}
+    </div>
+  </div>
+</section>

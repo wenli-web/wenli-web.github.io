@@ -2,7 +2,7 @@
 layout: research-home
 permalink: /
 title: "Wen Li — Haptics, Bioelectronics & HCI"
-excerpt: "Wen Li — Haptics, Bioelectronics & HCI. Wearable bioelectronic interfaces that stimulate, sense and model human perception and support healthcare."
+excerpt: "Wen Li — Haptics, Bioelectronics & HCI. Wearable bioelectronic interfaces that stimulate, sense, and model human perception and support healthcare."
 author_profile: false
 redirect_from:
   - /about/
@@ -12,9 +12,8 @@ redirect_from:
 <section class="hero container" aria-labelledby="hero-title">
   <div class="hero-copy">
     <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Haptics, Bioelectronics &amp; HCI</p>
-    <p class="hero-intro hero-credentials"><strong>Wen Li</strong> is a Materials Research Society (MRS) <a href="https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients">Graduate Student Gold Award winner</a>, <strong>Benjamin Ball Freud Merit Scholar</strong>.</p>
     <h1 id="hero-title">Engineering how<br>we <em>feel</em> &amp; <em>heal.</em></h1>
-    <p class="hero-intro">I build wearable bioelectronic interfaces that stimulate, sense and model human perception and support healthcare.</p>
+    <p class="hero-intro">I'm <strong>Wen Li</strong>, a Materials Research Society (MRS) <a href="https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients">Graduate Student Gold Award winner</a> and <strong>Benjamin Ball Freud Merit Scholar</strong>, and I build wearable bioelectronic interfaces that stimulate, sense, and model human perception and support healthcare.</p>
     <p class="hero-advisors">Ph.D. candidate at the University of Chicago.<br>Advised by <a href="https://tianlab.uchicago.edu/">Bozhi Tian</a> &amp; <a href="https://lab.plopes.org/">Pedro Lopes</a>.</p>
     <div class="hero-actions"><a class="button button-dark" href="#research">Explore my research <span aria-hidden="true">↗</span></a><a class="text-link" href="mailto:wenli@uchicago.edu">Get in touch <span aria-hidden="true">↗</span></a></div>
   </div>
@@ -28,9 +27,9 @@ redirect_from:
 
 <div class="container">
   <div class="research-lenses" aria-label="Research areas">
-    <div><span class="lens-number">01</span><p><strong>stimulate &amp; sensing</strong><span>Electrical stimulation &amp; tactile sensing</span></p></div>
-    <div><span class="lens-number">02</span><p><strong>Electronics &amp; biointerface</strong><span>Wearable circuits &amp; electrochemical devices</span></p></div>
-    <div><span class="lens-number">03</span><p><strong>Therapy &amp; perception</strong><span>Healthcare &amp; personalized haptics</span></p></div>
+    <div><span class="lens-number">01</span><p><strong>Stimulate &amp; Sensing</strong><span>Electrical stimulation &amp; tactile sensing</span></p></div>
+    <div><span class="lens-number">02</span><p><strong>Electronics &amp; Biointerface</strong><span>Wearable circuits &amp; electrochemical devices</span></p></div>
+    <div><span class="lens-number">03</span><p><strong>Therapy &amp; Perception</strong><span>Healthcare &amp; personalized haptics</span></p></div>
   </div>
 </div>
 
@@ -80,6 +79,8 @@ redirect_from:
   </div>
 </section>
 
+{% include teaching-section.html %}
+
 <section class="news-section" id="news" aria-labelledby="news-title">
   <div class="container news-layout">
     <div><p class="eyebrow section-label">A few updates</p><h2 id="news-title">Along the way.</h2><p class="section-intro">Research, recognition,<br>and things I’m grateful for.</p></div>
@@ -88,13 +89,13 @@ redirect_from:
 </section>
 
 <section class="section container about-section" id="about" aria-labelledby="about-title">
-  <div class="about-copy"><p class="eyebrow section-label">A little more about me</p><h2 id="about-title">Curious across disciplines.<br><em>And beyond the lab.</em></h2><p>My work lives between chemistry, biomedical engineering, and human–computer interaction. At UChicago, I develop wearable interfaces for therapy and perception with <a href="https://tianlab.uchicago.edu/">Bozhi Tian</a> and <a href="https://lab.plopes.org/">Pedro Lopes</a>.</p><p>Outside the lab, I sing bass with <a href="https://music.uchicago.edu/performance-opportunities/vocal/university-chorus">UChorus</a>, climb, cycle around Chicago, and play Go. <a href="https://vimeo.com/1085021221?share=copy#t=0">Here’s a recent performance <span aria-hidden="true">↗</span></a></p><div class="about-links"><a class="text-link" href="{{ site.author.cv | relative_url }}">Full CV <span aria-hidden="true">↗</span></a><a class="text-link" href="https://orcid.org/0009-0007-4512-0240">ORCID <span aria-hidden="true">↗</span></a></div></div>
+  <div class="about-copy"><p class="eyebrow section-label">A little more about me</p><h2 id="about-title">Beyond the lab.</h2><p>Outside the lab, I sing bass with <a href="https://music.uchicago.edu/performance-opportunities/vocal/university-chorus">UChorus</a>, climb, cycle around Chicago, and play Go. <a href="https://vimeo.com/1085021221?share=copy#t=0">Here’s a recent performance <span aria-hidden="true">↗</span></a></p></div>
   <div class="experience-list">
     <div><span class="experience-date">2021 — present</span><h3>University of Chicago</h3><p>Ph.D. candidate · Chemistry<br>Bioelectronic interfaces for therapy &amp; perception</p></div>
-    <div><span class="experience-date">Summer 2024</span><h3>Futurewei</h3><p>Materials Research Intern<br>Polymeric optics &amp; self-healing materials</p></div>
+    <div><span class="experience-date">Jan — Jun 2020</span><h3>UC Berkeley</h3><p>Exchange Student<br>Advisor: Phillip B. Messersmith</p></div>
     <div><span class="experience-date">2017 — 2021</span><h3>Nanjing University</h3><p>B.S. in Chemistry with Honors</p></div>
   </div>
-  <div class="service-strip"><div><h3>Building together</h3><p>Co-founded HPad, translating bioelectronics research into a medical-device venture. Selected for CNVC Phase II, with $5K in team seed funding.</p></div><div><h3>Sharing knowledge</h3><p>Teaching, mentoring, and peer review across materials, bioelectronics, and HCI. Reviewer for venues including ACS Nano, Device, IMWUT, and EuroHaptics.</p></div></div>
+  <div class="service-strip"><div><h3>Building together</h3><p>Co-founded HPad, translating bioelectronics research into a medical-device venture. Selected for CNVC Phase II, with $5K in team seed funding.</p></div><div><h3>Peer review</h3><p>Reviewer for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
 </section>
 
 <section class="contact-section" aria-labelledby="contact-title"><div class="container contact-inner"><div><p class="eyebrow">Ideas start with a conversation.</p><h2 id="contact-title">Let’s make contact.</h2></div><a href="mailto:wenli@uchicago.edu">wenli@uchicago.edu <span aria-hidden="true">↗</span></a></div></section>

@@ -1,0 +1,36 @@
+{
+  "institution": "University of Chicago",
+  "role": "Teaching Assistant",
+  "periods": "Sep 2021 – Jun 2022 · Sep 2026 – present",
+  "description": "I have served as a teaching assistant across four chemistry courses at the University of Chicago, leading weekly discussion sessions, supervising laboratory work, supporting lab-report writing, and holding office hours.",
+  "courses": [
+    "Organic Chemistry",
+    "Physical Chemistry Laboratory",
+    "Chemical Kinetics",
+    "Honors General Chemistry"
+  ],
+  "responsibilities": [
+    "Weekly discussion sessions",
+    "Laboratory supervision",
+    "Lab reports & office hours"
+  ],
+  "mentorship": "I have also mentored undergraduate and graduate researchers.",
+  "photos": [
+    {
+      "src": "/images/teaching-laboratory.jpg",
+      "alt": "Microscope and laboratory glassware in an illustrative chemistry classroom photograph.",
+      "caption": "Chemistry laboratory · illustrative image",
+      "credit": "Belikov Maxim",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Laboratory_equipment_of_modern_chemistry_classroom.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "width": 1280,
+      "height": 729
+    }
+  ],
+  "sources": [
+    "CV_Wen Li-Oct 25 2026-haptic track.docx, Teaching Assistant (P051–P052)",
+    "CV_Wen Li-Oct 16 2026.docx, Mentoring"
+  ],
+  "photoSourceChecked": "2026-10-26"
+}
