@@ -93,7 +93,7 @@ redirect_from:
     <div><span class="experience-date">Jan — Jun 2020</span><h3>UC Berkeley</h3><p>Exchange Student · Materials Science and Engineering<br>Advisor: Phillip B. Messersmith</p></div>
     <div><span class="experience-date">2017 — 2021</span><h3>Nanjing University</h3><p>B.S. in Chemistry with Honors</p></div>
   </div>
-  <div class="service-strip"><div><h3>Building together</h3><p>Co-founded HPad, translating bioelectronics research into a medical-device venture. Selected for CNVC Phase II, with $5K in team seed funding.</p></div><div><h3>Peer review</h3><p>Reviewer for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
+  <div class="service-strip"><div><h3>Peer review</h3><p>Reviewer for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
 </section>
 
 <section class="contact-section" aria-labelledby="contact-title"><div class="container contact-inner"><div><p class="eyebrow">Ideas start with a conversation.</p><h2 id="contact-title">Let’s make contact.</h2></div><a href="mailto:wenli@uchicago.edu">wenli@uchicago.edu <span aria-hidden="true">↗</span></a></div></section>
