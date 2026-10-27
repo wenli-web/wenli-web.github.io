@@ -31,3 +31,18 @@
 /* Shared link styling and navigation without JavaScript. */
 .hero-intro a{color:var(--accent);text-decoration:underline;text-decoration-color:#b98b79}
 @media(max-width:620px){html:not(.js) .header-inner{height:auto;min-height:68px;flex-wrap:wrap;gap:12px;padding-top:14px;padding-bottom:14px}html:not(.js) .primary-nav{width:100%;gap:12px}}
+
+/* Give every selected publication its own full-width image-and-text panel. */
+.publication-panels{display:grid;grid-template-columns:minmax(0,1fr);gap:25px}
+.publication-panels .project-card{min-width:0}
+.publication-panels .project-content{min-width:0}
+.publication-panels .project-featured h3{max-width:none;overflow-wrap:anywhere}
+.publication-panels .figure-contain{min-height:350px;background:#fff}
+.publication-panels .figure-contain img{position:absolute;inset:24px;width:calc(100% - 48px);height:calc(100% - 48px);object-fit:contain}
+.publication-panels .project-description+.project-links{margin-top:22px}
+@media(max-width:620px){
+  .publication-panels{gap:20px}
+  .publication-panels .figure-contain{min-height:0;aspect-ratio:1.65}
+  .publication-panels .figure-contain img{inset:18px;width:calc(100% - 36px);height:calc(100% - 36px)}
+}
+@media print{.publication-panels{gap:15px}}

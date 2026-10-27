@@ -36,8 +36,6 @@
         if (show) count++;
       });
       buttons.forEach((b) => b.setAttribute("aria-pressed", String(b === button)));
-      const additional = document.querySelector(".additional-work");
-      if (additional) additional.hidden = ![...additional.querySelectorAll(".research-item")].some((item) => !item.hidden);
       if (status) status.textContent = "Showing " + count + " selected work" + (count === 1 ? "" : "s") + (filter === "all" ? "." : " in " + button.textContent.trim() + ".");
     }));
   }

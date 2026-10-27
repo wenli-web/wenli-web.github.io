@@ -52,28 +52,19 @@ redirect_from:
     <a class="text-link scholar-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing 7 selected works.</p>
-  <div class="featured-grid">
-    {% for item in site.data.research.featured %}
-    <article class="project-card research-item{% if forloop.first %} project-featured{% endif %}" data-category="{{ item.category }}" id="{{ item.id }}">
-      <div class="project-media {{ item.imageClass }}"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></div>
+  {% assign selected_work = site.data.research.featured | concat: site.data.research.publications %}
+  <div class="publication-panels">
+    {% for item in selected_work %}
+    <article class="project-card project-featured research-item" data-category="{{ item.category }}" id="{{ item.id }}">
+      <div class="project-media {{ item.imageClass | default: 'figure-contain' }}"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></div>
       <div class="project-content">
-        <div class="project-meta"><span>{{ item.venue }} · {{ item.year }}</span>{% if item.status != "" %}<span class="status-label">{{ item.status }}</span>{% endif %}</div>
+        <div class="project-meta"><span>{{ item.venue }} · {{ item.year }}</span>{% if item.status and item.status != "" %}<span class="status-label">{{ item.status }}</span>{% endif %}</div>
         <h3><a href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.title }}</a></h3>
-        <p class="project-description">{{ item.description }}</p>
-        <ul class="project-tags" aria-label="Research topics">{% for tag in item.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
-        <div class="project-links"><a class="text-link" href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.linkLabel }} <span aria-hidden="true">↗</span></a>{% if item.video %}<a class="text-link" href="{{ item.video }}">Watch video <span aria-hidden="true">↗</span></a>{% endif %}</div>
-        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle }}</cite><br>{{ item.authors }}.<br>{{ item.venue }}, {{ item.year }}{% if item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
+        <p class="project-description">{{ item.description | default: item.abstract }}</p>
+        {% if item.tags %}<ul class="project-tags" aria-label="Research topics">{% for tag in item.tags %}<li>{{ tag }}</li>{% endfor %}</ul>{% endif %}
+        <div class="project-links"><a class="text-link" href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.linkLabel | default: 'Read the paper' }} <span aria-hidden="true">↗</span></a>{% if item.video %}<a class="text-link" href="{{ item.video }}">Watch video <span aria-hidden="true">↗</span></a>{% endif %}</div>
+        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle | default: item.title }}</cite><br>{{ item.authors }}.<br>{{ item.venue }}, {{ item.year }}{% if item.status and item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
       </div>
-    </article>
-    {% endfor %}
-  </div>
-  <div class="additional-work">
-    <div class="subsection-heading" data-secondary-heading><h3>More selected publications</h3><span>Materials, devices &amp; biointerfaces</span></div>
-    {% for item in site.data.research.publications %}
-    <article class="publication-row research-item" data-category="{{ item.category }}" id="{{ item.id }}">
-      <div class="publication-thumbnail"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="lazy" decoding="async"></div>
-      <div class="publication-copy"><p class="project-meta">{{ item.venue }} · {{ item.year }}</p><h4><a href="{{ item.url }}">{{ item.title }}</a></h4><p class="publication-authors">{{ item.authors }}</p><details class="publication-details"><summary>About this work</summary><p>{{ item.abstract }}</p></details></div>
-      <a class="publication-arrow" href="{{ item.url }}" aria-label="Read {{ item.title | escape }}"><span aria-hidden="true">↗</span></a>
     </article>
     {% endfor %}
   </div>
