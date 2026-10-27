@@ -4,17 +4,18 @@
       "id": "personalized-haptics",
       "category": "haptics bioelectronics hci",
       "label": "Wearable interfaces",
-      "venue": "Science Robotics",
+      "venue": "Preprint",
       "year": "2026",
       "status": "Under review",
       "title": "Learning personalized haptic perception",
       "fullTitle": "A wearable input/output interface learns personalized models of haptic perception.",
       "authors": "Wen Li, E. M. Adams, Z. Xu, J. Yao, A. Esmer, X. Ni, Bozhi Tian, Pedro Lopes",
-      "description": "I developed a wearable haptic interface that <strong>registers physical stimulation inputs and subjective perceptual outputs in a shared spatial coordinate frame</strong>. This enables personalized computational models of tactile and thermal perception, supporting both perceptual prediction and inverse haptic rendering.",
+      "description": "A wearable haptic interface <strong>registers physical stimulation inputs and subjective perceptual outputs in a shared spatial coordinate frame</strong>. This enables personalized tactile and thermal perception models for perceptual prediction and inverse haptic rendering, with applications in VR, interpersonal haptic communication, and robot teleoperation.",
       "tags": [
-        "Electrotactile",
+        "Multi-modal sensory integration",
+        "Embedded system",
         "Bayesian learning",
-        "Inverse rendering"
+        "Robot teleoperation"
       ],
       "image": "/images/summary.png",
       "imageAlt": "Wearable haptic input/output device with an electrode array on the forearm.",
@@ -32,11 +33,11 @@
       "title": "Electrotactile Improves Thermal Referral",
       "fullTitle": "Electrotactile Improves Thermal Referral.",
       "authors": "Wen Li, Rong Ni, Bozhi Tian, Pedro Lopes",
-      "description": "I combined electrotactile stimulation with thermal referral to extend thermal feedback to skin locations without thermal actuators. Compared with vibration-based referral, this improves cold referral and reduces distracting tactile sensations, enabling more realistic non-contact thermal experiences in VR.",
+      "description": "Electrotactile stimulation extends thermal referral to skin locations without thermal actuators. Compared with vibration-based referral, this improves cold referral and reduces distracting tactile sensations, enabling more realistic non-contact thermal experiences in VR.",
       "tags": [
-        "Thermal perception",
+        "VR",
         "Wearable hardware",
-        "VR"
+        "Psychophysics"
       ],
       "image": "/images/UIST_website.png",
       "imageAlt": "Study illustration comparing vibrotactile and electrotactile thermal referral in VR.",
@@ -55,11 +56,12 @@
       "title": "Hydrogel electrochemical cell for hydrogen therapy.",
       "fullTitle": "Hydrogen evolution and dynamics in hydrogel electrochemical cells for ischemia–reperfusion therapy.",
       "authors": "Wen Li, Jing Zhang, et al., Bozhi Tian",
-      "description": "I designed a hydrogel electrochemical cell in which the hydrogel serves as the <strong>electrolyte, reaction medium, and therapeutic delivery reservoir</strong>. It integrates hydrogen generation, local storage, and sustained release for electronically controlled, localized delivery, validated in preclinical ischemia–reperfusion and pressure-ulcer models.",
+      "description": "A hydrogel electrochemical cell uses the hydrogel as the <strong>electrolyte, reaction medium, and therapeutic delivery reservoir</strong>. It integrates hydrogen generation, local storage, and sustained release for electronically controlled, localized delivery, validated in preclinical ischemia–reperfusion and pressure-ulcer models.",
       "tags": [
         "Electrochemistry",
         "PCB design",
-        "Embedded systems"
+        "Animal model",
+        "Hydrogels"
       ],
       "image": "/images/pub1.jpg",
       "imageAlt": "Research figure illustrating a portable hydrogel electrochemical device for hydrogen delivery.",
@@ -79,7 +81,7 @@
       "image": "/images/pub4.jpg",
       "imageAlt": "Scientific figure from the nanoporous silicon photoelectrochemical study.",
       "url": "https://www.nature.com/articles/s41565-025-01878-4",
-      "abstract": "In collaborative work, we used gold-modified nanoporous silicon to generate hydrogen peroxide under physiological conditions and regulate intracellular stress granules through extracellular photoelectrochemistry. This links light-controlled chemical production to cellular stress responses, with protective effects evaluated in an ex vivo myocardial ischemia–reperfusion model."
+      "abstract": "Gold-modified nanoporous silicon generates hydrogen peroxide under physiological conditions and regulates intracellular stress granules through extracellular photoelectrochemistry. This links light-controlled chemical production to cellular stress responses, with protective effects evaluated in an ex vivo myocardial ischemia–reperfusion model."
     },
     {
       "id": "silicon-photostimulation",
@@ -91,7 +93,7 @@
       "image": "/images/pub5.jpg",
       "imageAlt": "Scientific figure from the monolithic silicon photostimulation study.",
       "url": "https://www.nature.com/articles/s41586-024-07016-9",
-      "abstract": "I contributed to device fabrication and cardiac photostimulation experiments in a team developing monolithic silicon interfaces. The platform enables leadless, multisite optical stimulation without genetic modification, addressing constraints of wired electrode arrays and supporting minimally invasive cardiac pacing."
+      "abstract": "Monolithic silicon interfaces enable leadless, multisite optical stimulation without genetic modification, addressing constraints of wired electrode arrays and supporting minimally invasive cardiac pacing."
     },
     {
       "id": "colloid-materials",
@@ -103,7 +105,7 @@
       "image": "/images/pub2.jpeg",
       "imageAlt": "Overview of multiscale colloid-based materials for biomedical applications.",
       "url": "https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274",
-      "abstract": "With my coauthors, I examined how colloidal materials connect nanoscale chemistry and microscale structure to macroscopic biointerfaces. Our perspective links design across these scales to biomedical opportunities in spatial imaging, localized delivery, and interactions with biological systems."
+      "abstract": "A perspective connecting nanoscale chemistry and microscale structure in colloidal materials to macroscopic biointerfaces. It links design across these scales to biomedical opportunities in spatial imaging, localized delivery, and interactions with biological systems."
     },
     {
       "id": "self-healing-polymers",
@@ -115,7 +117,7 @@
       "image": "/images/pub3.jpg",
       "imageAlt": "Scientific figure showing a coordination adaptable polymer network.",
       "url": "https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672",
-      "abstract": "I developed coordination adaptable polymer networks that combine mechanical strength and rigidity with reprocessing and recycling under mild conditions. Reversible metal–ligand bonds address the tension between strong networks and material recovery, allowing reuse without sacrificing mechanical performance."
+      "abstract": "Coordination adaptable polymer networks combine mechanical strength and rigidity with reprocessing and recycling under mild conditions. Reversible metal–ligand bonds address the tension between strong networks and material recovery, allowing reuse without sacrificing mechanical performance."
     }
   ],
   "news": [
