@@ -10,11 +10,11 @@
       "title": "Learning personalized haptic perception",
       "fullTitle": "A wearable input/output interface learns personalized models of haptic perception.",
       "authors": "Wen Li, E. M. Adams, Z. Xu, J. Yao, A. Esmer, X. Ni, Bozhi Tian, Pedro Lopes",
-      "description": "A wearable input/output interface uses Bayesian learning to model and render individual tactile and thermal percepts, with applications in VR, sensory substitution, and haptic-guided robot teleoperation.",
+      "description": "I developed a wearable haptic interface that <strong>registers physical stimulation inputs and subjective perceptual outputs in a shared spatial coordinate frame</strong>. This enables personalized computational models of tactile and thermal perception, supporting both perceptual prediction and inverse haptic rendering.",
       "tags": [
         "Electrotactile",
         "Bayesian learning",
-        "Teleoperation"
+        "Inverse rendering"
       ],
       "image": "/images/summary.png",
       "imageAlt": "Wearable haptic input/output device with an electrode array on the forearm.",
@@ -32,7 +32,7 @@
       "title": "Electrotactile Improves Thermal Referral",
       "fullTitle": "Electrotactile Improves Thermal Referral.",
       "authors": "Wen Li, Rong Ni, Bozhi Tian, Pedro Lopes",
-      "description": "Redirecting thermal sensations to skin locations without thermal actuators by combining electrotactile stimulation with thermal referral.",
+      "description": "I combined electrotactile stimulation with thermal referral to extend thermal feedback to skin locations without thermal actuators. Compared with vibration-based referral, this improves cold referral and reduces distracting tactile sensations, enabling more realistic non-contact thermal experiences in VR.",
       "tags": [
         "Thermal perception",
         "Wearable hardware",
@@ -55,7 +55,7 @@
       "title": "Hydrogel electrochemical cell for hydrogen therapy.",
       "fullTitle": "Hydrogen evolution and dynamics in hydrogel electrochemical cells for ischemia–reperfusion therapy.",
       "authors": "Wen Li, Jing Zhang, et al., Bozhi Tian",
-      "description": "A wearable, wireless electrochemical device for sustained, programmable hydrogen delivery in ischemia–reperfusion and pressure-ulcer models.",
+      "description": "I designed a hydrogel electrochemical cell in which the hydrogel serves as the <strong>electrolyte, reaction medium, and therapeutic delivery reservoir</strong>. It integrates hydrogen generation, local storage, and sustained release for electronically controlled, localized delivery, validated in preclinical ischemia–reperfusion and pressure-ulcer models.",
       "tags": [
         "Electrochemistry",
         "PCB design",
@@ -79,7 +79,7 @@
       "image": "/images/pub4.jpg",
       "imageAlt": "Scientific figure from the nanoporous silicon photoelectrochemical study.",
       "url": "https://www.nature.com/articles/s41565-025-01878-4",
-      "abstract": "A nanoporous silicon platform for photoelectrochemical regulation of intracellular condensates."
+      "abstract": "In collaborative work, we used gold-modified nanoporous silicon to generate hydrogen peroxide under physiological conditions and regulate intracellular stress granules through extracellular photoelectrochemistry. This links light-controlled chemical production to cellular stress responses, with protective effects evaluated in an ex vivo myocardial ischemia–reperfusion model."
     },
     {
       "id": "silicon-photostimulation",
@@ -91,7 +91,7 @@
       "image": "/images/pub5.jpg",
       "imageAlt": "Scientific figure from the monolithic silicon photostimulation study.",
       "url": "https://www.nature.com/articles/s41586-024-07016-9",
-      "abstract": "Semiconductor-enabled photostimulation of cardiac systems. I contributed to device fabrication and cardiac photostimulation experiments as part of the research team."
+      "abstract": "I contributed to device fabrication and cardiac photostimulation experiments in a team developing monolithic silicon interfaces. The platform enables leadless, multisite optical stimulation without genetic modification, addressing constraints of wired electrode arrays and supporting minimally invasive cardiac pacing."
     },
     {
       "id": "colloid-materials",
@@ -103,7 +103,7 @@
       "image": "/images/pub2.jpeg",
       "imageAlt": "Overview of multiscale colloid-based materials for biomedical applications.",
       "url": "https://pubs.acs.org/doi/full/10.1021/acs.langmuir.3c01274",
-      "abstract": "A perspective on synthetic colloid-based materials at nano- and microscales and their connections to biological systems, including imaging and localized delivery."
+      "abstract": "With my coauthors, I examined how colloidal materials connect nanoscale chemistry and microscale structure to macroscopic biointerfaces. Our perspective links design across these scales to biomedical opportunities in spatial imaging, localized delivery, and interactions with biological systems."
     },
     {
       "id": "self-healing-polymers",
@@ -115,7 +115,7 @@
       "image": "/images/pub3.jpg",
       "imageAlt": "Scientific figure showing a coordination adaptable polymer network.",
       "url": "https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672",
-      "abstract": "A coordination adaptable polymer network that combines mechanical strength with reprocessability, recyclability, and self-healing."
+      "abstract": "I developed coordination adaptable polymer networks that combine mechanical strength and rigidity with reprocessing and recycling under mild conditions. Reversible metal–ligand bonds address the tension between strong networks and material recovery, allowing reuse without sacrificing mechanical performance."
     }
   ],
   "news": [
@@ -128,19 +128,19 @@
     {
       "date": "2025-12-16",
       "displayDate": "Dec 2025",
-      "text": "Received the Olshansky Graduate Student Travel Award at UChicago.",
+      "text": "I received the Olshansky Graduate Student Travel Award at UChicago.",
       "url": ""
     },
     {
       "date": "2025-12-05",
       "displayDate": "Dec 2025",
-      "text": "Received the MRS Graduate Student Gold Award and Best Poster Award.",
+      "text": "I received the MRS Graduate Student Gold Award and Best Poster Award.",
       "url": "https://www.mrs.org/advancing-careers/award-central/spring-awards/graduate-student-awards/past-recipients"
     },
     {
       "date": "2025-06-06",
       "displayDate": "Jun 2025",
-      "text": "Selected as a Benjamin Ball Freud Merit Scholar.",
+      "text": "I was selected as a Benjamin Ball Freud Merit Scholar.",
       "url": ""
     }
   ]

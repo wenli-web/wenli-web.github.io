@@ -35,7 +35,7 @@ redirect_from:
 <section class="section container" id="research" aria-labelledby="research-title">
   <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Haptics, Bioelectronics &amp; HCI<br class="desktop-break"> grounded in materials and wearable electronics.</p></div>
   <div class="research-overview">
-    <p class="research-overview-copy">His research bridges biomedical engineering, materials science, and human–computer interaction (HCI). His interdisciplinary publication record spans both leading scientific journals, including <em>Nature</em>, <em>Nature Chemical Engineering</em>, <em>Nature Nanotechnology</em>, <em>Nature Biomedical Engineering</em>, <em>Nature Sustainability</em>, <em>Device</em>, and <em>Matter</em>, and premier HCI conferences, including <em>ACM UIST</em>.</p>
+    <p class="research-overview-copy">My research bridges biomedical engineering, materials science, and human–computer interaction (HCI). My interdisciplinary publication record spans both leading scientific journals, including <em>Nature</em>, <em>Nature Chemical Engineering</em>, <em>Nature Nanotechnology</em>, <em>Nature Biomedical Engineering</em>, <em>Nature Sustainability</em>, <em>Device</em>, and <em>Matter</em>, and premier HCI conferences, including <em>ACM UIST</em>.</p>
     <figure class="summary-overview">
       <img src="{{ '/images/summary.png' | relative_url }}" alt="Research overview showing electrochemical biointerfaces for therapy, electrical interfaces for thermal referral, and wearable input/output interfaces for personalized haptic perception." width="4400" height="2097" loading="lazy" decoding="async">
       <figcaption><span>Wearable bioelectronic interfaces for therapy and perception.</span><a class="text-link" href="{{ '/images/summary.png' | relative_url }}" target="_blank" rel="noopener">View full-size image <span aria-hidden="true">↗</span></a></figcaption>
@@ -93,7 +93,7 @@ redirect_from:
     <div><span class="experience-date">Jan — Jun 2020</span><h3>UC Berkeley</h3><p>Exchange Student · Materials Science and Engineering</p></div>
     <div><span class="experience-date">2017 — 2021</span><h3>Nanjing University</h3><p>B.S. in Chemistry with Honors</p></div>
   </div>
-  <div class="service-strip"><div><h3>Peer review</h3><p>Reviewer for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
+  <div class="service-strip"><div><h3>Peer review</h3><p>I review for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
 </section>
 
 <section class="contact-section" aria-labelledby="contact-title"><div class="container contact-inner"><div><p class="eyebrow">Ideas start with a conversation.</p><h2 id="contact-title">Let’s make contact.</h2></div><a href="mailto:wenli@uchicago.edu">wenli@uchicago.edu <span aria-hidden="true">↗</span></a></div></section>
