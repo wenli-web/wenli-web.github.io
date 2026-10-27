@@ -81,19 +81,19 @@ redirect_from:
 
 <section class="news-section" id="news" aria-labelledby="news-title">
   <div class="container news-layout">
-    <div><p class="eyebrow section-label">A few updates</p><h2 id="news-title">Along the way.</h2><p class="section-intro">Research, recognition,<br>and things I’m grateful for.</p></div>
+    <div><p class="eyebrow section-label">A few updates</p><h2 id="news-title">Along the way.</h2><p class="section-intro">Updates on Wen’s research<br>and recognition.</p></div>
     <ol class="news-list">{% for item in site.data.research.news %}<li><time datetime="{{ item.date }}">{{ item.displayDate }}</time><p>{% if item.url != "" %}<a href="{{ item.url }}">{{ item.text }} <span aria-hidden="true">↗</span></a>{% else %}{{ item.text }}{% endif %}</p></li>{% endfor %}</ol>
   </div>
 </section>
 
 <section class="section container about-section" id="about" aria-labelledby="about-title">
-  <div class="about-copy"><p class="eyebrow section-label">A little more about me</p><h2 id="about-title">Beyond the lab.</h2><p>Outside the lab, I sing bass with <a href="https://music.uchicago.edu/performance-opportunities/vocal/university-chorus">UChorus</a>, climb, cycle around Chicago, and play Go. <a href="https://vimeo.com/1085021221?share=copy#t=0">Here’s a recent performance <span aria-hidden="true">↗</span></a></p></div>
+  <div class="about-copy"><p class="eyebrow section-label">A little more about Wen</p><h2 id="about-title">Beyond the lab.</h2><p>Outside the lab, Wen sings bass with <a href="https://music.uchicago.edu/performance-opportunities/vocal/university-chorus">UChorus</a>, climbs, cycles around Chicago, and plays Go. <a href="https://vimeo.com/1085021221?share=copy#t=0">Watch Wen’s recent performance <span aria-hidden="true">↗</span></a></p></div>
   <div class="experience-list">
     <div><span class="experience-date">2021 — present</span><h3>University of Chicago</h3><p>Sixth-year Ph.D. candidate · Chemistry<br>Bioelectronic interfaces for therapy &amp; perception</p></div>
     <div><span class="experience-date">Jan — Jun 2020</span><h3>UC Berkeley</h3><p>Exchange Student · Materials Science and Engineering</p></div>
     <div><span class="experience-date">2017 — 2021</span><h3>Nanjing University</h3><p>B.S. in Chemistry with Honors</p></div>
   </div>
-  <div class="service-strip"><div><h3>Peer review</h3><p>I review for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
+  <div class="service-strip"><div><h3>Peer review</h3><p>Wen reviews for venues including ACS Nano, Device, IMWUT, EuroHaptics, and IEEE Transactions on Visualization and Computer Graphics.</p></div></div>
 </section>
 
 <section class="contact-section" aria-labelledby="contact-title"><div class="container contact-inner"><div><p class="eyebrow">Ideas start with a conversation.</p><h2 id="contact-title">Let’s make contact.</h2></div><a href="mailto:wenli@uchicago.edu">wenli@uchicago.edu <span aria-hidden="true">↗</span></a></div></section>
