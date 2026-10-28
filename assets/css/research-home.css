@@ -46,3 +46,8 @@
   .publication-panels .figure-contain img{inset:18px;width:calc(100% - 36px);height:calc(100% - 36px)}
 }
 @media print{.publication-panels{gap:15px}}
+
+/* Keep complete author lists visible and distinguish Wen Li in each citation. */
+.publication-panels .project-authors{margin:0 0 14px;font-size:12px;line-height:1.7;color:var(--muted);overflow-wrap:anywhere}
+.publication-panels .author-self{color:var(--ink);font-weight:700}
+@media(max-width:620px){.publication-panels .project-authors{font-size:11px}}

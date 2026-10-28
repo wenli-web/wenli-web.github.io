@@ -55,15 +55,17 @@ redirect_from:
   {% assign selected_work = site.data.research.featured | concat: site.data.research.publications %}
   <div class="publication-panels">
     {% for item in selected_work %}
+    {% assign authors_html = item.authors | escape | replace: 'Wen Li', '<strong class="author-self">Wen Li</strong>' %}
     <article class="project-card project-featured research-item" data-category="{{ item.category }}" id="{{ item.id }}">
       <div class="project-media {{ item.imageClass | default: 'figure-contain' }}"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></div>
       <div class="project-content">
         <div class="project-meta"><span>{{ item.venue }} · {{ item.year }}</span>{% if item.status and item.status != "" %}<span class="status-label">{{ item.status }}</span>{% endif %}</div>
         <h3><a href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.title }}</a></h3>
+        <p class="project-authors">{{ authors_html }}</p>
         <p class="project-description">{{ item.description | default: item.abstract }}</p>
         {% if item.tags %}<ul class="project-tags" aria-label="Research topics">{% for tag in item.tags %}<li>{{ tag }}</li>{% endfor %}</ul>{% endif %}
         <div class="project-links"><a class="text-link" href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.linkLabel | default: 'Read the paper' }} <span aria-hidden="true">↗</span></a>{% if item.video %}<a class="text-link" href="{{ item.video }}">Watch video <span aria-hidden="true">↗</span></a>{% endif %}</div>
-        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle | default: item.title }}</cite><br>{{ item.authors }}.<br>{{ item.venue }}, {{ item.year }}{% if item.status and item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
+        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle | default: item.title }}</cite><br>{{ authors_html }}.<br>{{ item.venue }}, {{ item.year }}{% if item.status and item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
       </div>
     </article>
     {% endfor %}
