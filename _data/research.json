@@ -21,7 +21,25 @@
       "imageAlt": "Wearable haptic input/output device with an electrode array on the forearm.",
       "imageClass": "device-crop",
       "url": "/files/Haptic_IO_PREPRINT.pdf",
-      "linkLabel": "Read the preprint"
+      "linkLabel": "Read the preprint",
+      "gallery": [
+        {
+          "src": "/images/summary.png",
+          "alt": "Wearable haptic input/output device with an electrode array on the forearm.",
+          "class": "device-crop",
+          "caption": "Wearable haptic input / output",
+          "width": 4400,
+          "height": 2097
+        },
+        {
+          "src": "/images/robot-teleoperation.png",
+          "alt": "Robot teleoperation demonstration with a wearable haptic interface, robot camera views, and spatial cue maps.",
+          "class": "gallery-contain",
+          "caption": "Haptic-guided robot teleoperation",
+          "width": 4400,
+          "height": 2049
+        }
+      ]
     },
     {
       "id": "thermal-referral",

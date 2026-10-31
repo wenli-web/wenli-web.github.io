@@ -51,3 +51,15 @@
 .publication-panels .project-authors{margin:0 0 14px;font-size:12px;line-height:1.7;color:var(--muted);overflow-wrap:anywhere}
 .publication-panels .author-self{color:var(--ink);font-weight:700}
 @media(max-width:620px){.publication-panels .project-authors{font-size:11px}}
+
+/* Pair the preprint device image with its robot teleoperation demonstration. */
+.publication-panels .project-gallery{display:grid;gap:18px;align-content:center;padding:22px;min-height:0;aspect-ratio:auto;background:#edf0e7}
+.project-gallery-item{min-width:0;margin:0}
+.project-gallery-visual{display:block;overflow:hidden;border-radius:4px;background:#fff;line-height:0}
+.project-gallery-visual.device-crop{position:relative;aspect-ratio:1.95;background:#edf0e7}
+.project-gallery-visual.gallery-contain img{width:100%;height:auto}
+.project-gallery .device-crop::after{display:none}
+.project-gallery figcaption{margin-top:8px;font-size:10px;line-height:1.5;color:var(--muted)}
+.project-gallery figcaption a{display:flex;justify-content:space-between;gap:12px;align-items:center}
+.publication-panels .project-with-gallery .project-content{align-self:center}
+@media(max-width:620px){.publication-panels .project-with-gallery .project-media{height:auto;min-height:0;aspect-ratio:auto;padding:18px;gap:16px}}

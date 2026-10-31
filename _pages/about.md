@@ -33,7 +33,7 @@ redirect_from:
 </div>
 
 <section class="section container" id="research" aria-labelledby="research-title">
-  <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Haptics, Bioelectronics &amp; HCI<br class="desktop-break"> grounded in materials and wearable electronics.</p></div>
+  <div class="section-heading"><div><p class="eyebrow section-label">Selected work</p><h2 id="research-title">Research at the interface.</h2></div><p class="section-intro">Haptics, Bioelectronics &amp; HCI<br class="desktop-break"> grounded in material science and biomedical engineering</p></div>
   <div class="research-overview">
     <p class="research-overview-copy">My research bridges biomedical engineering, materials science, and human–computer interaction (HCI). My interdisciplinary publication record spans both leading scientific journals, including <em>Nature</em>, <em>Nature Chemical Engineering</em>, <em>Nature Nanotechnology</em>, <em>Nature Biomedical Engineering</em>, <em>Nature Sustainability</em>, <em>Device</em>, and <em>Matter</em>, and premier HCI conferences, including <em>ACM UIST</em>.</p>
     <figure class="summary-overview">
@@ -56,8 +56,19 @@ redirect_from:
   <div class="publication-panels">
     {% for item in selected_work %}
     {% assign authors_html = item.authors | escape | replace: 'Wen Li', '<strong class="author-self">Wen Li</strong>' %}
-    <article class="project-card project-featured research-item" data-category="{{ item.category }}" id="{{ item.id }}">
+    <article class="project-card project-featured research-item{% if item.gallery %} project-with-gallery{% endif %}" data-category="{{ item.category }}" id="{{ item.id }}">
+      {% if item.gallery %}
+      <div class="project-media project-gallery" aria-label="Project images">
+        {% for gallery_image in item.gallery %}
+        <figure class="project-gallery-item">
+          <a class="project-gallery-visual {{ gallery_image.class }}" href="{{ gallery_image.src | relative_url }}" target="_blank" rel="noopener" aria-label="View {{ gallery_image.caption | escape }} at full size"><img src="{{ gallery_image.src | relative_url }}" alt="{{ gallery_image.alt | escape }}" width="{{ gallery_image.width }}" height="{{ gallery_image.height }}" loading="eager" decoding="async"></a>
+          <figcaption><a href="{{ gallery_image.src | relative_url }}" target="_blank" rel="noopener">{{ gallery_image.caption }} <span aria-hidden="true">↗</span></a></figcaption>
+        </figure>
+        {% endfor %}
+      </div>
+      {% else %}
       <div class="project-media {{ item.imageClass | default: 'figure-contain' }}"><img src="{{ item.image | relative_url }}" alt="{{ item.imageAlt | escape }}" loading="{% if forloop.first %}eager{% else %}lazy{% endif %}" decoding="async"></div>
+      {% endif %}
       <div class="project-content">
         <div class="project-meta"><span>{{ item.venue }} · {{ item.year }}</span>{% if item.status and item.status != "" %}<span class="status-label">{{ item.status }}</span>{% endif %}</div>
         <h3><a href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.title }}</a></h3>
