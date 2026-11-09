@@ -20,7 +20,7 @@
       "image": "/images/summary.png",
       "imageAlt": "Wearable haptic input/output device with an electrode array on the forearm.",
       "imageClass": "device-crop",
-      "url": "/files/Haptic_IO_PREPRINT.pdf",
+      "url": "https://arxiv.org/abs/2611.09708",
       "linkLabel": "Read the preprint",
       "gallery": [
         {
