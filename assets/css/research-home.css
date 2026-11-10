@@ -68,3 +68,6 @@
 .collaboration-work{margin-top:60px}
 .collaboration-work>.section-heading{margin-bottom:25px}
 @media(max-width:620px){.collaboration-work{margin-top:44px}.collaboration-work>.section-heading{margin-bottom:20px}}
+
+.publication-panels .figure-credit{margin-top:14px;font-size:10px;line-height:1.6;color:var(--muted)}
+.publication-panels .figure-credit a{white-space:nowrap;text-decoration:underline;text-underline-offset:3px}

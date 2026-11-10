@@ -51,7 +51,8 @@ redirect_from:
     </div>
     <a class="text-link scholar-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
-  <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing 7 selected works.</p>
+  {% assign work_count = site.data.research.featured.size | plus: site.data.research.collaborations.size %}
+  <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing {{ work_count }} selected works.</p>
   {% assign research_groups = 'featured,collaborations' | split: ',' %}
   {% for group in research_groups %}
   {% if group == 'collaborations' %}
@@ -81,7 +82,8 @@ redirect_from:
         <p class="project-description">{{ item.description | default: item.abstract }}</p>
         {% if item.tags %}<ul class="project-tags" aria-label="Research topics">{% for tag in item.tags %}<li>{{ tag }}</li>{% endfor %}</ul>{% endif %}
         <div class="project-links"><a class="text-link" href="{% if item.url contains 'https://' %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.linkLabel | default: 'Read the paper' }} <span aria-hidden="true">↗</span></a>{% if item.video %}<a class="text-link" href="{{ item.video }}">Watch video <span aria-hidden="true">↗</span></a>{% endif %}</div>
-        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle | default: item.title }}</cite><br>{{ authors_html }}.<br>{{ item.venue }}, {{ item.year }}{% if item.status and item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
+        <details class="publication-details"><summary>Publication details</summary><p><cite>{{ item.fullTitle | default: item.title }}</cite><br>{{ authors_html }}.<br>{% if item.citation %}{{ item.citation }}{% else %}{{ item.venue }}, {{ item.year }}{% endif %}{% if item.status and item.status != "" %} ({{ item.status | downcase }}){% endif %}.</p></details>
+        {% if item.figureCredit %}<p class="figure-credit">{{ item.figureCredit }} <a href="{{ item.figureSource }}">Figure source <span aria-hidden="true">↗</span></a></p>{% endif %}
       </div>
     </article>
     {% endfor %}
