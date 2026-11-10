@@ -24,6 +24,7 @@
   const group = document.querySelector(".filter-group");
   const items = [...document.querySelectorAll(".research-item")];
   const status = document.querySelector("#filter-status");
+  const researchGroups = [...document.querySelectorAll("[data-research-group]")];
   if (group && items.length) {
     group.hidden = false;
     const buttons = [...group.querySelectorAll("button")];
@@ -34,6 +35,9 @@
         const show = filter === "all" || item.dataset.category.split(" ").includes(filter);
         item.hidden = !show;
         if (show) count++;
+      });
+      researchGroups.forEach((section) => {
+        section.hidden = ![...section.querySelectorAll(".research-item")].some((item) => !item.hidden);
       });
       buttons.forEach((b) => b.setAttribute("aria-pressed", String(b === button)));
       if (status) status.textContent = "Showing " + count + " selected work" + (count === 1 ? "" : "s") + (filter === "all" ? "." : " in " + button.textContent.trim() + ".");

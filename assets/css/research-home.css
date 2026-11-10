@@ -63,3 +63,8 @@
 .project-gallery figcaption a{display:flex;justify-content:space-between;gap:12px;align-items:center}
 .publication-panels .project-with-gallery .project-content{align-self:center}
 @media(max-width:620px){.publication-panels .project-with-gallery .project-media{height:auto;min-height:0;aspect-ratio:auto;padding:18px;gap:16px}}
+
+/* Separate collaborative publications while retaining shared topic filters. */
+.collaboration-work{margin-top:60px}
+.collaboration-work>.section-heading{margin-bottom:25px}
+@media(max-width:620px){.collaboration-work{margin-top:44px}.collaboration-work>.section-heading{margin-bottom:20px}}

@@ -52,9 +52,14 @@ redirect_from:
     <a class="text-link scholar-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
   </div>
   <p class="sr-only" id="filter-status" role="status" aria-live="polite">Showing 7 selected works.</p>
-  {% assign selected_work = site.data.research.featured | concat: site.data.research.publications %}
+  {% assign research_groups = 'featured,collaborations' | split: ',' %}
+  {% for group in research_groups %}
+  {% if group == 'collaborations' %}
+  <section class="collaboration-work" id="collaboration-work" aria-labelledby="collaboration-title" data-research-group>
+    <div class="section-heading"><h2 id="collaboration-title">Collaboration Work</h2></div>
+  {% endif %}
   <div class="publication-panels">
-    {% for item in selected_work %}
+    {% for item in site.data.research[group] %}
     {% assign authors_html = item.authors | escape | replace: 'Wen Li', '<strong class="author-self">Wen Li</strong>' %}
     <article class="project-card project-featured research-item{% if item.gallery %} project-with-gallery{% endif %}" data-category="{{ item.category }}" id="{{ item.id }}">
       {% if item.gallery %}
@@ -81,6 +86,8 @@ redirect_from:
     </article>
     {% endfor %}
   </div>
+  {% if group == 'collaborations' %}</section>{% endif %}
+  {% endfor %}
 </section>
 
 <section class="news-section" id="news" aria-labelledby="news-title">

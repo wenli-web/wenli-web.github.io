@@ -86,32 +86,6 @@
       "imageClass": "figure-contain",
       "url": "https://www.nature.com/articles/s44286-025-00259-x",
       "linkLabel": "Read the paper"
-    }
-  ],
-  "publications": [
-    {
-      "id": "nanoporous-silicon",
-      "category": "bioelectronics",
-      "venue": "Nature Nanotechnology",
-      "year": "2025",
-      "title": "Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates",
-      "authors": "Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, Wen Li, Chuanwang Yang, Saehyun Kim, Zhe Cheng, Ananth Kamath, Samira Siahrostami, Bozhi Tian",
-      "image": "/images/pub4.jpg",
-      "imageAlt": "Scientific figure from the nanoporous silicon photoelectrochemical study.",
-      "url": "https://www.nature.com/articles/s41565-025-01878-4",
-      "abstract": "Gold-modified nanoporous silicon generates hydrogen peroxide under physiological conditions and regulates intracellular stress granules through extracellular photoelectrochemistry. This links light-controlled chemical production to cellular stress responses, with protective effects evaluated in an ex vivo myocardial ischemia–reperfusion model."
-    },
-    {
-      "id": "silicon-photostimulation",
-      "category": "bioelectronics",
-      "venue": "Nature",
-      "year": "2024",
-      "title": "Monolithic silicon for high spatiotemporal translational photostimulation",
-      "authors": "Pengju Li, Jing Zhang, Hidenori Hayashi, Jiping Yue, Wen Li, Chuanwang Yang, Changxu Sun, Jiuyun Shi, Judah Huberman-Shlaes, Narutoshi Hibino, Bozhi Tian",
-      "image": "/images/pub5.jpg",
-      "imageAlt": "Scientific figure from the monolithic silicon photostimulation study.",
-      "url": "https://www.nature.com/articles/s41586-024-07016-9",
-      "abstract": "Monolithic silicon interfaces enable leadless, multisite optical stimulation without genetic modification, addressing constraints of wired electrode arrays and supporting minimally invasive cardiac pacing."
     },
     {
       "id": "colloid-materials",
@@ -136,6 +110,32 @@
       "imageAlt": "Scientific figure showing a coordination adaptable polymer network.",
       "url": "https://www.chinesechemsoc.org/doi/full/10.31635/ccschem.022.202101672",
       "abstract": "Coordination adaptable polymer networks combine mechanical strength and rigidity with reprocessing and recycling under mild conditions. Reversible metal–ligand bonds address the tension between strong networks and material recovery, allowing reuse without sacrificing mechanical performance."
+    }
+  ],
+  "collaborations": [
+    {
+      "id": "nanoporous-silicon",
+      "category": "bioelectronics",
+      "venue": "Nature Nanotechnology",
+      "year": "2025",
+      "title": "Gold-modified nanoporous silicon for photoelectrochemical regulation of intracellular condensates",
+      "authors": "Jing Zhang, Pengju Li, Jiping Yue, Lingyuan Meng, Wen Li, Chuanwang Yang, Saehyun Kim, Zhe Cheng, Ananth Kamath, Samira Siahrostami, Bozhi Tian",
+      "image": "/images/pub4.jpg",
+      "imageAlt": "Scientific figure from the nanoporous silicon photoelectrochemical study.",
+      "url": "https://www.nature.com/articles/s41565-025-01878-4",
+      "abstract": "Gold-modified nanoporous silicon generates hydrogen peroxide under physiological conditions and regulates intracellular stress granules through extracellular photoelectrochemistry. This links light-controlled chemical production to cellular stress responses, with protective effects evaluated in an ex vivo myocardial ischemia–reperfusion model."
+    },
+    {
+      "id": "silicon-photostimulation",
+      "category": "bioelectronics",
+      "venue": "Nature",
+      "year": "2024",
+      "title": "Monolithic silicon for high spatiotemporal translational photostimulation",
+      "authors": "Pengju Li, Jing Zhang, Hidenori Hayashi, Jiping Yue, Wen Li, Chuanwang Yang, Changxu Sun, Jiuyun Shi, Judah Huberman-Shlaes, Narutoshi Hibino, Bozhi Tian",
+      "image": "/images/pub5.jpg",
+      "imageAlt": "Scientific figure from the monolithic silicon photostimulation study.",
+      "url": "https://www.nature.com/articles/s41586-024-07016-9",
+      "abstract": "Monolithic silicon interfaces enable leadless, multisite optical stimulation without genetic modification, addressing constraints of wired electrode arrays and supporting minimally invasive cardiac pacing."
     }
   ],
   "news": [
