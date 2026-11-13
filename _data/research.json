@@ -204,6 +204,24 @@
   ],
   "news": [
     {
+      "date": "2026-11",
+      "displayDate": "Nov 2026",
+      "text": "Wen gave a research talk and presented a demo at ACM UIST 2026 in Detroit.",
+      "url": ""
+    },
+    {
+      "date": "2026-11",
+      "displayDate": "Nov 2026",
+      "text": "Wen gave a talk in the Department of Chemical Engineering at the University of Michigan.",
+      "url": ""
+    },
+    {
+      "date": "2026-11",
+      "displayDate": "Nov 2026",
+      "text": "Wen gave a talk at the University of Michigan CS department open house.",
+      "url": ""
+    },
+    {
       "date": "2026-08-08",
       "displayDate": "Aug 2026",
       "text": "Wen’s paper “Electrotactile Improves Thermal Referral” was accepted at ACM UIST 2026.",
